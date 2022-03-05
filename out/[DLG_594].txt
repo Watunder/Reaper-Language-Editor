@@ -1,0 +1,6 @@
+[DLG_594] ; IDD_RENDER_NORMALIZE
+;254542EBFE1FED8E=Postprocess Render
+;9B4221E88C5F649E=Only normalize files that are too loud
+;BD1835DBC6549037=Brickwall limit:
+;^A2596B858F081DFB=Normalize to:
+;^D8D27C186BA6D499=dB

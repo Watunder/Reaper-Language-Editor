@@ -1,0 +1,23 @@
+[DLG_515] ; IDD_PREFS_PLUGINS_REASCRIPT
+;58B4A8EDF08F1F9A=Doubleclicking a function name jumps to function definition (command toggles)
+;D9F6926ED9CBF7A9=Python
+;F20359390E0CC35E=ReaScript can be used to create simple macros to perform frequently repeated tasks, or to create complex REAPER extensions.
+;E6D764D466D14077=View online ReaScript overview 
+;C5BD660AE06DB168=View local ReaScript documentation
+;3F944C5A8A234435=Clear ReaScript console on ShowConsoleMsg(\"\")
+;0A982E468D5F454F=Clear ReaScript console before running any ReaScript
+;2613C40B070714CE=Timeout limit for Lua ReaScripts:
+;8E74AFA00234F07A=IDE watch window update interval:
+;BF81EC1A2B542208=Maximum visible autocomplete suggestions:
+;2A12E2D3327E2A2E=Doubleclicking a function name jumps to function definition (control toggles)
+;CCE5AF9B4CD69393=IDE Colors...
+;BFF5EC3F089E6751=Enable Python for use with ReaScript
+;29F2655C1595AEC9=Python:
+;1B226BA06F503D1D=Python status
+;7C9DF7E52346FDB4=dll path
+;D5FC3581D08FD781=Custom path to Python dll directory:
+;6E0781DE4B3837B3=Force ReaScript to use specific Python dll:
+;^2C626DCBF2E2019A=ReaScript
+;^1616D990C579771C=seconds
+;^DF2472EC2AB0BAFB=Download Python
+;^F685FB3A91025549=Browse...

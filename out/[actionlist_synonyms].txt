@@ -1,0 +1,5 @@
+[actionlist_synonyms]
+;0000000000000001=open,display,view,show,hide
+;0000000000000002=delete,clear,remove,erase
+;0000000000000003=insert,add
+;0000000000000004=deselect,unselect

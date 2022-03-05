@@ -1,0 +1,9 @@
+[notes]
+;D818B7732CF5CD93=Notes for
+;BFC9EEDEB699E2E0=Do not display image
+;6AC9A0C688CE10AE=Center/tile image
+;543163485D058F64=Full height image
+;31DBF2FC9D00F701=Stretch image/text
+;504BB8254188E0D8=No thumbnail
+;992D36967FFF7AA5=Full height
+;6AD03498036FD261=Stretch image

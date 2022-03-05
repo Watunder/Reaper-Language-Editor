@@ -1,0 +1,9 @@
+[prefs_video]
+;3DF78C7ADF54BF4C=Items in lower numbered tracks replace higher
+;CE84A8764F3997DE=Items in higher numbered tracks replace lower
+;1E7A963DE9FEFC16=Evaluate at middle of frame
+;89ACF3CE88192017=Evaluate at start of frame
+;^A5B5D9B93340662C=Auto
+;^B568BA4FF2C021AD=I420/YV12
+;^12D4B3F4318065D2=YUY2
+;^879D887E0C22ABF6=RGB

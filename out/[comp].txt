@@ -1,0 +1,5 @@
+[comp]
+;E63708A9651FBB9A=Take Comp Name
+;1B58887EEE306022=A comp named \"%s\" already exists in the project. Delete it?
+;1E9A4E9E37C4797B=Confirm Comp Name
+;^2430BBE52E3FC625=Comp %d

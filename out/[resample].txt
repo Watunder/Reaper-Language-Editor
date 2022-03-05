@@ -1,0 +1,11 @@
+[resample]
+;5802E84151789372=Linear Interpolation (low quality)
+;1D8DA325D2C79470=Point Sampling (lowest quality, retro)
+;59F63A7A1F16642C=Sinc Interpolation: 192pt
+;3DFD5869650307FD=Sinc Interpolation: 384pt
+;2A43462B5E9ED461=Linear Interpolation + IIR
+;BD223316A5B3CE0B=Linear Interpolation + IIRx2
+;FA12A6B75D71120F=Sinc Interpolation: 16pt
+;7BA96F5A4928F0AC=Sinc Interpolation: 512pt (slow)
+;12D520842643D91B=Sinc Interpolation: 768pt (very slow)
+;F0E80E4B3670635B=Sinc Interpolation: 64pt (medium quality)

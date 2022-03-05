@@ -1,0 +1,6 @@
+[DLG_155] ; IDD_WAVESINK_CFG
+;35DF1AFCAFFB37CD=WAV bit depth:
+;31A3228789E94216=Write BWF ('bext') chunk
+;8EDB2530266182F3=Embed tempo
+;CF2E6C07C4C12F21=Large files:
+;^46B10D8B633443CD=Include project filename in BWF data

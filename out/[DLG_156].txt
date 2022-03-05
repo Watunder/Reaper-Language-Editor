@@ -1,0 +1,20 @@
+[DLG_156] ; IDD_PREFS_AUDIO
+;771BE661607B660C=Audio settings
+;A965CC5A8248EA92=Close audio device when stopped and application is inactive
+;A3E497C30F573907=Close audio device when inactive and tracks are record armed
+;88D3DE337F7E5D78=Close audio device when inactive and ReWire devices are open
+;1B98A491F616C4FD=Close audio device when stopped and active (less responsive)
+;8C97F85C4C9FE0F2=Warn when unable to open audio devices
+;C33F7F4B6513187B=Warn when unable to open MIDI devices
+;CB2AA5F907FD5B5E=Warn when enabled MIDI devices are not present
+;AC7AE7A176147DD5=Tiny fade out on playback stop
+;6AF1C766315DA216=Tiny fade in on playback start
+;28DF1513ACC005F5=Reduce CPU use of silent tracks during playback (experimental)
+;70F8916AE115DDD9=Stop processing audio while warning of failed disk writes/disk full
+;C5A76E243C28A4AB=Channel naming/mapping
+;4554DB9B26BD7F5D=Input channel name aliasing/remapping
+;BC4FB48156117258=Edit Names/Map...
+;FC22C6EF8E185AD2=Output channel name aliasing/remapping
+;7744ECC4A8F97396=Show non-standard stereo channel pairs (i.e. Input 2/Input 3 etc)
+;F67D1FDC9D0ABC37=main outs
+;644113753F9A2FD9=Default metronome output:

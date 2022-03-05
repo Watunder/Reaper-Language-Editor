@@ -1,0 +1,13 @@
+[DLG_376] ; IDD_PROJECTSETTINGS_VIDEO
+;3C96C8EC17623182=Preferred video size:
+;C8DA872ED5A7C0B3=Video item visibility:
+;E92CF45B57E61DB1=Video processor automation:
+;DD87F17E89792AF3=Video is affected by the solo state of other tracks
+;31AD0471E00085D8=Video is affected by muted parent tracks
+;977357388CFC1639=Video colorspace:
+;D87FC269258563FB=Always resize video sources to preferred video size
+;42DE701EFD494C17=Always resize output to preferred video size
+;F71879505EE5260E=Use high quality filtering when resizing
+;D037E80E157C9825=Preserve aspect ratio (letterbox) when resizing
+;^C32C641180B224AC=Frame rate:
+;^08325007B4EB10C5=x

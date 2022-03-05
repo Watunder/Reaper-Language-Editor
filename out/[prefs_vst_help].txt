@@ -1,0 +1,13 @@
+[prefs_vst_help]
+;EDB8FF5E08C92FF2=Directories to scan for VST plug-ins. Subdirectories will also be scanned.
+;AB0179D030C28898=Displays a menu with options to re-scan plug-ins, and view a list of plug-ins that failed to scan.
+;A33160A83CBD4DE3=Use the generic slider view instead of the VST's custom GUI. You can switch views at any time using the UI button on the plug-in window.
+;24C425763A91B75D=Set the default VST knob behavior. Almost no plug-ins support this setting.
+;062E0C5C05471D20=Set how automation notifications are handled from VST plug-ins. You can also override this per-plugin, most people will want to leave this on the default.
+;2EAA3B50A18F889D=Don't inform VSTis that playback has stopped. Most synths (especially arpeggiators) want to know playback has stopped to avoid hanging notes.
+;5709C6930F8F1BE9=Preserve held notes and current pitch when resetting VSTis. This is probably needed when disabling Preferences/Audio/Playback/Reset MIDI CC/Pitch.
+;1DE74C0937316C7F=Some VSTs behave differently when rendering offline (not in realtime).  When deselected,  plugins always think they are online.
+;FAC0CB28431DC2EC=Some buggy plug-ins crash when the GUI is opened while a different thread is processing audio. This avoids the crash by interrupting audio.
+;A91F48CD20B8FDCE=Allow unloading of VST DLLs, which gets them completely out of memory, but also may cause compatibility issues.
+;DB1AD925D830A08C=Special mode, applied to UAD plugins only, that reduces parallel processing benefits to avoid UAD-1 crashes.
+;63294B8DD7109B3F=Scan for new/updated VST plug-ins on startup (recommended). If disabled you can manually re-scan or choose the plug-ins to scan here.

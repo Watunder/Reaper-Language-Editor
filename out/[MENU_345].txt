@@ -1,0 +1,16 @@
+[MENU_345] ; IDR_CONTEXTS_45
+;7FD83CFAFD120049=45_ActionDlgCtx
+;1D2C0C0BFB0D449F=Edit selected custom action/ReaScript
+;B365D6F10CF49E96=Delete selected custom action/ReaScript
+;F86DA01979DBF767=Copy selected action command ID
+;88671F5C9F600FB2=Copy selected action text
+;325CE726D1C9B296=Arm selected action
+;32B36460E94E98E6=Disarm actions
+;EAA22874AC7EECF8=Remember last action filter
+;4B4705FB0C266569=Search for synonyms of common words
+;06F6E4D36435E6E6=Close after action on doubleclick/enter
+;A04C4EA23D1F025E=Show action IDs
+;C0BE663525BD3669=Show ReaScript paths
+;9B042869A79FA02B=Dock Action window in Docker
+;^D1EB52BFBDF1AB33=Duplicate custom action
+;^82EE5475CB6FCE9F=Close window

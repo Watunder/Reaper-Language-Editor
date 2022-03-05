@@ -1,0 +1,13 @@
+[DLG_142] ; IDD_MISSINGFILEPROMPT
+;12003D947B908539=Replace missing file...
+;C5F140FB45EE33FF=Leave file offline
+;35D50776DD5FE769=Ignore all missing files
+;75F64930226168E8=The following file could not be found:
+;4D25501B7AF0D92B=Media search
+;AFC11D55B1CB098D=When multiple matches are found, use:
+;CA3D0F1A0CB8BE5D=On successful search, autosearch for other missing files
+;1902312630A17C31=On failed search, leave file offline and autosearch for other missing files
+;9FA639597C9378AB=Search...
+;C05DAD1BAAF106A6=Abort project load
+;B953726494A1AB01=In project:
+;^4D5B21719C8D85CE=Browse for file...

@@ -1,0 +1,8 @@
+[prefs_lv2_help]
+;A587E09E12D2843D=Directories to scan for LV2 plug-ins. Subdirectories will not be scanned and must be added manaully.
+;92D10A535096E868=Scan all LV2 directories for any added or updated plug-ins.
+;00B5D436FE324A6E=If a LV2 plug-in only outputs a single channel, append (Mono) to the name.
+;D255299518AD792A=If a LV2 plug-in outputs more than stereo, append (X channel) to the name.
+;4A2C53207D9958CA=If a LV2 plug-in is MIDI-only, append (MIDI) to the name.
+;57C6EE91EC75541E=Append the LV2 plug-in developer/maintainer name, if available.
+;2AE645FD2827D1D1=Status of how many LV2 plug-ins scanned/failed, click the Re-scan button to rescan the paths and/or view which plug-ins failed.

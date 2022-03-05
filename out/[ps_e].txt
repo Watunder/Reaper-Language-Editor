@@ -1,0 +1,21 @@
+[ps_e]
+;D217B8F5E7B0FAA8=Preserve Formants (Lowest Pitches)
+;319CFF3B9E9FF243=Preserve Formants (Lower Pitches)
+;148D1D337626C32A=Preserve Formants (Low Pitches)
+;62026271DC3F139B=Preserve Formants (Most Pitches)
+;A0C306CBBB654A5E=Preserve Formants (High Pitches)
+;7A5DA90B116EC97F=Preserve Formants (Higher Pitches)
+;DD113501280C8ED4=Preserve Formants (Highest Pitches)
+;C2867E3D0158B7C9=Synchronized
+;E88B6199F99B6B71=Monophonic
+;4AD97576ACC6C119= [Mid/Side]
+;E71804A85237B88B=Synchronized: 
+;0F9E335F65E6FEFB=Transient
+;AF39B880B2F07DD1=Tonal
+;32F95B9E16A31A9F=[Mid/Side]
+;34BA387EE0C4753E=élastique %d.%d.%d Pro
+;F7CD332E5E6587D2=élastique %d.%d.%d Efficient
+;56CD21AE34653AC4=élastique %d.%d.%d Soloist
+;^39033A2427CEE207=Mid/Side
+;^F7555C0F482AB3C9=Speech
+;^63ACD193C4316F68=Normal

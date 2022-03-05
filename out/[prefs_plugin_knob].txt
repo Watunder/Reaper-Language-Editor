@@ -1,0 +1,5 @@
+[prefs_plugin_knob]
+;1D75478FD209EC92=Circular
+;8D3D701CD5FDAF4F=Relative
+;^AB2A3D4EF1C9D1A8=Default
+;^CA47517BDEFA4232=Linear

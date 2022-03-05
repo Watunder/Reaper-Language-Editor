@@ -1,0 +1,11 @@
+[DLG_224] ; IDD_QUANTIZE_ITEMS
+;E51495C599FCAA9B=Quantize Item Positions
+;90DECF8A8061D5DD=Move grouped items with selected items
+;E79764031E9008D0=Extend starts of items to overlap with earlier items by 
+;447B4AAD0BD404E2=Shorten earlier items if quantized items overlap by more than
+;6F72BABC300F7828=Quantize item ends and stretch item to fit
+;^0629736B3FAE9E4C=Process
+;^F09E4B5C35AA14B9=Cancel
+;^8C66AD45F2B879B1=Quantize to:
+;^850C45978587FBF4=notes
+;^D8B3B3186B8C817F=ms

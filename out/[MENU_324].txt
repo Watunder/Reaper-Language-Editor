@@ -1,0 +1,5 @@
+[MENU_324] ; IDR_CONTEXTS_24
+;08F71B928F2055DD=24vkbCtx
+;003BBBD75A6F3E50=Dock Virtual MIDI keyboard in Docker
+;C82A15933756388D=Send all keyboard input to Virtual MIDI keyboard (even when other windows active)
+;29ADE871FA5ECAEC=Close Virtual MIDI keyboard

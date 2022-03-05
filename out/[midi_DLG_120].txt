@@ -1,0 +1,20 @@
+[midi_DLG_120] ; IDD_MIDIITEMINFO
+;01D4CC44D0EFDC81=MIDI File Properties
+;4399BA4BD6E544BB=Only play channels:
+;A9759EED1FED1E1A=Send as channel:
+;716435436E335538=Ignore project tempo, use:
+;F83ED02F8879E4D6=Chase CC/pitch/program before take start offset
+;971ED57E1466F812=PPQ
+;F7E0035AE601F663=Pooled MIDI events are shared by %d media items
+;C9FF1554CD9D5FEB=Select all pooled
+;8EC420BAFBE62496=Un-pool this item
+;B9EEE1AE70AB8441=CC envelope interpolation resolution:
+;^3BF92ABFA8425D90=Filename:
+;^C01085DD37178417=File info:
+;^2ACA9A5D3E5720F8=Transpose:
+;^83C05BCE6E0BA462=semitones
+;^10D0E37E59744608=BPM
+;^08329907B4EB8CD0=/
+;^D840E3186B2B9581=OK
+;^F09E4B5C35AA14B9=Cancel
+;^D7323C887B0A2951=Apply

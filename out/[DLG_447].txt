@@ -1,0 +1,26 @@
+[DLG_447] ; IDD_PREFS_ENVELOPES
+;A3CFC4EDE3BDAA1A=Envelope Display/Editing
+;F70B20FAE441D488=Volume envelope range:
+;0A88F4671881EA36=Default per-take pitch envelope range:
+;2DBB79A909F46E00=semitones, snap:
+;44B420DD4F3AB656=Default tempo map envelope display range:
+;A1FC4F4522BBAEC4=Show new envelopes in separate envelope lanes
+;A74C3D45F9D47CA9=When drawn over media, overlap envelopes if each is less than
+;38ECE60A1799A076=pixels high
+;DD15146F76480C15=When adding envelopes or setting visible, set the focus to the envelope
+;A5C24439F53E90FE=Envelope point selection follows time selection for the active envelope
+;CB6F1A1FA9E2367C=First click on unselected envelope can insert a point (depends on mouse modifier settings)
+;380C326E3C68071C=Prevent mouse edits of single envelope points from moving past other envelope points
+;CCA504D42501588F=Automatically show affected envelopes when moving media items across tracks
+;35A6C3D61C6D0FBF=Changing envelope in lane:
+;77542B112EC25D31=Automatically add edge points when editing:
+;79D1AB082C4CFEEA=Multiple points
+;86E13A2814E261D6=Ripple editing or inserting time
+;628E8029B7D80755=Transition time for automatically created envelope edge points:
+;EC6E55BC826C501F=ms (minimum 0.1)
+;6454EA820B08ADA9=fader-scaled volume envelopes
+;226B6B5C768820AE=other envelopes
+;13327D5E18BF9D77=Use relative mouse edits for:
+;^D89CC7186B79C49A=to
+;^2746237EF788A7A8=bpm
+;^3470CDBB0C544765=Media items

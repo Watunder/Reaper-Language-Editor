@@ -1,0 +1,24 @@
+[customizemenu]
+;60761F79AE7C6D51=Customized toolbar:
+;743D5DE682B2520B=Default toolbar:
+;3381436A5275FC2C=Icon...
+;BB8DEF4452154BCD=switching menus
+;3AD566171AC38A07=Retitle menu
+;75E33EAFA782FD04=Add label
+;DB43122089698013=Add submenu
+;8AE6DD57CA93AB8F=Rename menu item
+;5BF2418D54B41EC9=Text icon
+;56CCAC0E8900FBFD=Reset all customized toolbars to default? Note: this cannot be undone!
+;601D766EE84F0CA9=Reset all customized menus to default? Note: this cannot be undone!
+;E3EA8486EB10C973=Confirm menu reset
+;462C331AD48CE1D6=Load Menu [Set]:
+;D33FECDC0798C273=ReaperMenu file does not have menu for '%s'
+;32F9F5B3AA189E84=Error importing ReaperMenu
+;4B387F5A8FE58150=Replace current custom menu set?\r\n(You must export the current set for it to be saved.)
+;F147FBB440094BD8=Confirm menu set load
+;EEB3E113002BEEAD=Save single menu:
+;AA3B0E0744248C81=Save menu set:
+;^38EAAB594661F05F=Default menu:
+;^AF427D96E302B145=Customized menu:
+;^66D8B92631859FE9=Rename...
+;^83CEDDAC8FB7324E=Copy

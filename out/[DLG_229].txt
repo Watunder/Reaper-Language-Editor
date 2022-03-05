@@ -1,0 +1,7 @@
+[DLG_229] ; IDD_REWIREHOST
+;1B35AAA003D0943A=Show Panel...
+;836BDDCC9759C2E1=Hide Panel...
+;C9543A0A63C71249=ReWire Tabs
+;FB71FABB7A17A192=Allow client to set loop region
+;A20AA377A313A4AF=Allow client to set tempo
+;077D2C59054EE61C=name

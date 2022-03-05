@@ -1,0 +1,3 @@
+[DLG_435] ; IDD_VSTBRIDGECHILD
+;DA88DAC3C62A1C9C=Bridged plug-in may be open in top level window.
+;7BD160C0B92E1670=Show UI

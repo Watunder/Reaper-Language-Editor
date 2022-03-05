@@ -1,0 +1,16 @@
+[prefs_audio_help]
+;9864B7B74DAD01DC=When enabled, REAPER will share audio devices with other applications by closing the audio hardware not active.
+;7BCD0ED018A7F991=When unchecked and any tracks are record armed, then REAPER will not share audio devices.
+;56EF83DBB9B533D8=When unchecked and any ReWire devices are in use, then REAPER will not share audio devices.
+;2C9DA92A74FFB037=When checked, REAPER will close the audio devices whenever not playing back audio. 
+;68336ADEF74B10B4=Warn about audio devices that could not be opened.
+;01AEB6565994D6E7=Warn about MIDI devices that could not be opened.
+;1A40A74117924D4C=Warn about MIDI devices that are enabled but could not be found.
+;9092B7B301B6B847=Apply a buffer block length fade-out to the monitor signal only, when stopping playback. N/A if FX configured to play back unflushed when stopped.
+;78BA8E43A417BFAA=Apply a buffer block length fade-in to the monitor signal only, when starting playback.
+;6000B5F82791C32E=Avoid extra processing on silent tracks during playback, which can save CPU use for those tracks (but potentially increase CPU for other tracks)
+;CDA1B340C7057066=Enables audio input name aliasing, letting you rename your inputs for easier selection.
+;A28FB91F31A627A6=Enables audio output name aliasing, letting you rename your outputs for easier selection.
+;1BCA4F5650495E9C=When checked, allows you to treat odd pairs of inputs/outputs as stereo pairs, i.e. not just Channels 1/2, but 2/3 as well.
+;8266E618390457F0=Sets default output for metronome when project does not override -- default is project master outputs
+;1723A087387F0E61=If checked, audio processing and output will be bypassed if a disk write error warning occurs (in order to draw attention to the issue)

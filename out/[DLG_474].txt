@@ -1,0 +1,8 @@
+[DLG_474] ; IDD_PREFS_PATH
+;81BBA2B36371EDB5=Path settings
+;8F307CE5C88DF54B=Default path to save new projects:
+;973B67107DB3B77C=Default render path (if left empty the current project directory, if any, will be used):
+;E19AF0FCD67934A5=Default recording path, when project is unsaved and no recording path is configured:
+;55FF305FB05C16EA=Store all peak caches (.reapeaks) in alternate path:
+;6934246FDA04EE9E=Use alternate peak cache path for the following paths (multiple paths separated by semicolons):
+;^F685FB3A91025549=Browse...

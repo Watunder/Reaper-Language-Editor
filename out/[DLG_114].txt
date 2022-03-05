@@ -1,0 +1,20 @@
+[DLG_114] ; IDD_REASCRIPT_EDITOR
+;D3D720DE0DAAFD56=Restart
+;6DB700CA3D9D5729=Dock IDE window in Docker
+;3E0D0BAD1F8E064F=Close IDE window
+;D2E6B7E7B657D1D1=The script %s has been modified externally.\r\nDo you want to reload it?
+;3B79C565F246167A=Reload ReaScript?
+;ADFBC2DF619CD08E=Save changes to:
+;831EC47C169E3F00=before closing?
+;35947A0D61B1839D=Save ReaScript modifications?
+;472F38ACA99C26FA=ReaScript Development Environment
+;D9B78CC3D8EB7ABC=API help
+;91B11477A77007C4=Run defer() code
+;2F579B23960A832D=Step
+;6657ECBAB76A74D5=atexit()
+;EFF3F0892BB2600F=Watch variables
+;^DCEF2B4D03DE723C=Name
+;^772CECA01AD73CB4=Value
+;^87DB547E0C57B4B8=Run
+;^5B664677E1A91155=Start
+;^D9B12705AD844C62=List1

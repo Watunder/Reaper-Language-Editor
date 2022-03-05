@@ -1,0 +1,9 @@
+[DLG_553] ; IDD_WARN_CONFIRM
+;BB954F153A7461AE=Record Warning
+;97641F41CAE9E24B=No tracks are armed for recording. You can continue, but nothing will be recorded until you record-arm a track.
+;19C0740C49C364CB=Envelope Warning
+;3902FAECC27E843D=Changing the volume envelope scaling will change the sound of this envelope, because changes on the volume fader are not linearly equivalent to changes in amplitude.
+;E9AA42FF465F8210=Don't show this warning again
+;^BF7C871A52628C99=Warning
+;^F031DD957D5C1B56=Continue
+;^F09E4B5C35AA14B9=Cancel

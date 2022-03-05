@@ -1,0 +1,27 @@
+[DLG_519] ; IDD_PREFS_AUTOMATION
+;2774BF0E396FA6EA=Automation recording return speed:
+;6A77E58CC1DB4B89=Action transition time:
+;F3407898EA587963=Automatically add envelopes when tweaking parameters in automation write modes
+;A034ABCC948D1990=Hidden envelopes: 
+;0C24BC2FF418AD7F=Display read automation feedback
+;60ED6B2EB49A67AF=Allow writing automation
+;53DCE930EA9EFA47=When recording automation and stopped:
+;28BEB3FF40AEB890=When adding volume/pan envelopes, apply trim to envelope and reset trim:
+;D53F5AD8EB230214=After recording automation in write mode, on repeat/seek/stop:
+;FAF6019D4C87F0AD=Reset latch state when looping
+;7D419BFC78E5A168=Insert new automation item when writing automation and underlying envelope enabled
+;553CF5385ED037A6=Loop new automation items by default
+;5E51BC4C073B3DC8=Editing baseline/amplitude in properties dialog affects pooled copies
+;4C7B56D3F86B561D=Pool source data when pasting automation items
+;8303E5B1DE90EB36=Pool source data when track/item/razor edit
+;E39C26BBF74C7E96=copies
+;CA329BDAAD44656A=splits
+;40183B239CE59F1C=automation items
+;885BAEFEC38FF1C7=Trim content behind automation items when editing or writing automation
+;D4012E4A9E0E8EE3=Default edge transition time for new automation items:
+;D72C9CE44133874C=ms (max 200)
+;D2BB603857B464E4=Automatically append envelope name to automation item label
+;^2715653EC997D088=Automation
+;^D8B3B3186B8C817F=ms
+;^20BAEAD47F4513A4=Reduce envelope point data when recording or drawing automation
+;^7B9DAB3CFFB093BC=Automation items

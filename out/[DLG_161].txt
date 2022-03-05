@@ -1,0 +1,9 @@
+[DLG_161] ; IDD_EDITORITEM
+;33A92C8FA5438A7C=Editor Configuration
+;64B7B388D17F971F=File type (extension):
+;15A9DE70DEE257AE=Primary Editor:
+;3367C07971B9528E=(leave blank to set the default editors)
+;8AD3CF43B42E168A=Secondary Editor:
+;^F685FB3A91025549=Browse...
+;^D840E3186B2B9581=OK
+;^F09E4B5C35AA14B9=Cancel

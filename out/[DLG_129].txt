@@ -1,0 +1,18 @@
+[DLG_129] ; IDD_PROJECTSETTINGS_RECORDING
+;9B2E24B6EBAAE282=Custom...
+;A7527277E2603C9C=Custom: %s...
+;F491EC85CC245A7C=Automatic .wav (recommended)
+;5E1200E881830A1D=Recording format
+;8895B2410BD02BD3=Use global preference (copy media to project path)
+;B51253B86D90D327=Use global preference (do not copy media to project path)
+;824F5F99CC24896D=Copy media to project path
+;0E4768BB51B92D8B=Do not copy media to project path
+;DC49DC62BD4643CF=Path to save media files (can be relative, leave blank for same path as project file):
+;6B91E28B685614B2=Secondary recording path (blank for none, can be enabled per-track):
+;26952E15FB6FAB2E=On import of media to project:
+;E9AE30152DA09181=Audio format for new recordings:
+;E185A4164E1A47FD=Format for Apply FX, Glue, Freeze, etc:
+;2EA42769697FEA54=Default format for project/region render:
+;^003BD938FD8D368D=(not set)
+;^F685FB3A91025549=Browse...
+;^D3E64988F293BA3A=Recording

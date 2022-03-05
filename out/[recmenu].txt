@@ -1,0 +1,41 @@
+[recmenu]
+;5672C710FBC6C520=All MIDI Inputs
+;67C7AD9F5370E4BF=Ch%d: %s
+;5BA4FD0495383A98=..%s [%d chan]
+;1D7096F08B3D7195= [multichannel]
+;017CD91CBF3AC663=Monitor Input
+;672414CC0AFAB026=Monitor Input (Tape Auto Style)
+;41D1C9D23CE079D3=Monitor track media when recording
+;11803F166A4FDD0B=Preserve PDC delayed monitoring in recorded items
+;C96C94D47B97B33B=Record: MIDI overdub/replace
+;AFCC6AF3303B5E61=Record: output
+;BD6BDF2B89B0D125=Record: input (force format)
+;6DE193A93ED5CCF0=Input: Mono
+;03EFBF3526613E45=Mono (%d inputs)
+;63DF2AAC40BB4DDB=Input: Stereo
+;90DFBD88F9AC0166=Stereo (%d stereo pairs)
+;CB583F872ABE35DD=Input: %d channel
+;9FBD3B7C7D482A63=Input: multichannel
+;8B6B47A8BE35ED96=Input: MIDI
+;145E67C5F043EBA4=MIDI (sequential inputs or channels)
+;4DD9C390E127A0E6=Channels %d to %d
+;301435B0001182A3=Map input to channel
+;B332C15E45DB07B9=Source Channel
+;56C59DA37A313EB1=Input: None
+;1E071B9647C6E815=Assign inputs sequentially
+;ECAF11E2B0ADF073=Track recording settings (Input Quantize, Format, etc)...
+;BCD3C22A1D934649=Track input FX chain...
+;^D89CC7186B79C49A=to
+;^BA66149397E5F1AE=All Channels
+;^B3D2C76823B56BAB=Channel %d
+;^6270FD068BA054BF=Stereo peaks
+;^10FBF96843F58677=Multichannel peaks
+;^12EC4ACDA5D3863D=Stereo RMS
+;^5213D2CF925EB192=Combined RMS
+;^C0A402815EE4A2E1=LUFS-M
+;^3514B1D551F0F24D=LUFS-S (readout=max)
+;^79A279EBE1DC53BC=LUFS-S (readout=current)
+;^F6743C2AC6A59C3E=LUFS measures first two channels only
+;^FAB04AB85CF8625D=Meters
+;^F1707CB9030B35E0=Automatic record-arm when track selected
+;^081CECC31B65E0C4=Set track automatic record-arm when selected

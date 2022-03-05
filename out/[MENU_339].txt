@@ -1,0 +1,6 @@
+[MENU_339] ; IDR_CONTEXTS_39
+;224F214718A59CE4=39_HelpCtx
+;7C5F9CD63D02797C=Selected track/item/envelope details
+;887622B09469C795=CPU/RAM use, time since last save
+;D1D35C65C6B83D9C=No information display
+;B8C33ECCB30AE714=Show mouse editing help

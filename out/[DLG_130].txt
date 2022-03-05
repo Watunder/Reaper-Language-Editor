@@ -1,0 +1,10 @@
+[DLG_130] ; IDD_KEEPDELFILES
+;968FE9870E7392DA=Select files to save or delete
+;640AD4A161129F8D=Save All
+;BC44E5DF05AB42DE=Rename selected
+;4BA029FCB2FAFFFD=Delete selected
+;31A39AE6F5DE72CF=Delete All
+;4B25D75615EC1A16=Files recorded
+;^52BC569ACECFA886=on stop
+;^DDCECC683DEC9D6A=on punch-out/play
+;^5565002CCE1DFBC7=Prompt to save/delete/rename new files:

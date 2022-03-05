@@ -1,0 +1,6 @@
+[prefs_extedit]
+;DC64AADB760F7E81=Choose program to open:
+;0D17C62157FFDC68=Extension
+;DB927D2B0D27A97F=Primary
+;D4C05341A170A81B=Secondary
+;^A97DAA4FBD1778A5=(default)

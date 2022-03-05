@@ -1,0 +1,11 @@
+[DLG_145] ; IDD_COLORTHEMEDEV
+;26A41802E656AB2D=Theme development/tweaker
+;76CA49A564380AB8=Theme color/font settings:
+;72E77C5A7CC1D2B0=Load Theme...
+;C63F867B1B382AE3=Save Theme...
+;A439058D27884637=Image resource path:
+;80682754268B716C=Show in explorer
+;3AAC7E082D07235C=Reload images
+;^81F584F9FDAE6C4F=Show in finder
+;^D43B88702E996ED9=Filter:
+;^F685FB3A91025549=Browse...

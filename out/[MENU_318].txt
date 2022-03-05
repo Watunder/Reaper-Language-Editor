@@ -1,0 +1,4 @@
+[MENU_318] ; IDR_CONTEXTS_18
+;922768F1528B9C30=18NavCtx
+;FD95107AE618F7DA=Dock navigator window in Docker
+;5BA532B79E210468=Close Navigator

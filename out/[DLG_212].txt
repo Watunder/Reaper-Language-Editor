@@ -1,0 +1,22 @@
+[DLG_212] ; IDD_PREFS_PROJECT
+;4D218C9A346F7B79=Project settings
+;FEF6844CA6E20459=When creating new projects, use the following project file as a template:
+;E128E6C758BBADD7=Prompt to save on new project
+;1182D3164197978A=Open properties on new project
+;FD87B02FFB447670=Project loading
+;2C88DA69457EE61F=Look for project media items in project directory before qualified path
+;C1CB39730620196F=Prompt when files are not found on project load
+;CD5317E280F27A31=Show load status and splash while loading projects
+;D05A2F9A08ACFC82=Project saving
+;EC403AA6A8B772FE=Save project file references with relative pathnames
+;9594CC6401422D4C=When overwriting project file, rename old project to .rpp-bak
+;EEFB5DE4DC59F257=Keep multiple versions
+;7096563D9523FBAD=Timestamp backup
+;EFAD845FE18F5C54=Keep undo histories
+;16EF1DE677B6A5F2=Every
+;0A1D95E50872708A=minutes:
+;1BDA1BF4E19E27FD=Save to timestamped file in project directory
+;CC897BECE9A66F4B=Save to timestamped file in additional directory:
+;241C380B8459DF0D=Save to project file (not recommended)
+;B0A7FAD536E0CFE0=Save undo history (RPP-UNDO) (if enabled in general prefs)
+;^F685FB3A91025549=Browse...

@@ -1,0 +1,21 @@
+[DLG_172] ; IDD_PREFS_EDITCFG
+;4D8F7A5A9245F919=Editing behavior
+;23C01768B8090D2F=Move edit cursor to start of time selection on time selection change
+;4C88CB0B79BBCE00=Move edit cursor when pasting/inserting media
+;D4CCD39898DAEF23=Move edit cursor to end of recorded items on record stop
+;5E6B52214FFB6F82=Link loop points to time selection
+;FCBF848D058095E1=Clear loop points on click in ruler
+;46FE32F3924ECB82=Clear time selection when edit cursor moves on click in arrange view
+;347BEF6E7C817645=Vertical zoom center:
+;584AC3CE0E6BC82B=Horizontal zoom center:
+;AF239E1DB5AA0E08=Transient detection
+;5FC0AC4569E4E2AF=Adjust sensitivity...
+;5597FFD1F336E75D=Tab through MIDI notes
+;8EB832E42FDC2501=Treat media item edges as transients
+;2EB90B46315D20B6=Locked item ripple editing behavior:
+;E11DAEF2BBEB112C=Allow dual trim (edit shared media item edges) only if both items are selected 
+;32B5CB1F9A8B8705=Crossfades stay together during fade edits when trim content behind media items is enabled
+;AA5A7A99565E6043=Automatically delete empty tracks created by dragging items below the last track and back
+;93565C719250C592=Dragging the source start offset of the active take adjusts the offset for all takes
+;6F6DCD0B40734C2E=If no items are selected, some split/trim/delete actions affect all items at the edit cursor
+;97C7A665BF565738=Stretching razor edit area adds stretch markers to audio items

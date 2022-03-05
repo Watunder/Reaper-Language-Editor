@@ -1,0 +1,14 @@
+[DLG_153] ; IDD_PREFS_MIDI
+;138115F421695B0D=Add joystick MIDI...
+;A4F5378A569069D6=MIDI inputs to make available (selectable as track inputs and/or learnable or action-bindable):
+;2067FD051A93CC68=MIDI outputs to make available (selectable as track outputs):
+;D5D0203E4FFCD927=MIDI hardware settings
+;751EA016639ED40A=All-notes-off
+;E16CBE842A37B395=Pitch/sustain
+;B7CB4986C15E8D4B=Reset by:
+;AF3AC146DC0BBCFA=Restrict MIDI hardware output to one thread
+;9EC74E86B379FB1B=Reset on:
+;82AB49B39099AD8F=Stop/stopped seek
+;^D9B12705AD844C62=List1
+;^F8E6A0B81A77C5E9=Reset all MIDI devices
+;^3D9CBC3C216900AD=Play

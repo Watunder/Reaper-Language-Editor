@@ -1,0 +1,8 @@
+[explorer_DLG_134] ; IDD_DBBUILD
+;ED2B6582378E3E60=Updating %d databases
+;F337D108662369F8=Searching in
+;9FFD446C2869A48C=subfolders
+;61B10EAD5F94FC7C=metadata (may be slow the first time)
+;B21641943ECEAEFD=Creating database
+;^ADE62F1CFD2974B6=Scanning...
+;^F09E4B5C35AA14B9=Cancel

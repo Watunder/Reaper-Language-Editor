@@ -1,0 +1,15 @@
+[MENU_348] ; IDR_CONTEXTS_48
+;3FC01DE4F18CE67D=48_TrackMgrDlgCtx
+;AC72775A423346DF=Delete selected tracks
+;F2A09386DF1BC176=Show master track in track manager
+;B7CCCC2B737AFE13=Indent tracks in folders
+;6970673FA3425006=When searching for folder tracks, show tracks in those folders
+;A9ED46BAAAEA368F=Allow reordering tracks via track manager
+;D0B04F6FFA867689=Mirror track selection
+;0686B5216A3A1FA2=Scroll to selected track when mirroring selection
+;86CBE5E14DB5E032=Link TCP/mixer visibility
+;B9AA043D9A67981F=Hide filtered-out tracks in TCP
+;A0C4F5072F8ED0D9=Hide filtered-out tracks in mixer
+;108CE6CDF93FB571=Close track manager on enter key in filter box
+;996C6D986C53776D=Dock Track Manager window in Docker
+;^82EE5475CB6FCE9F=Close window

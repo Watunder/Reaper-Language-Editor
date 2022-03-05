@@ -1,0 +1,25 @@
+[misc]
+;D9FF1A097D91EEAC=Set global recording pass counter
+;628988D16E7CA278=New value:
+;FE1A9C4B05BD3094=Load image resource:
+;D7DE3AAB536FF9E7=Project is open but modified:\r\n%s\r\n\r\nSave changes when copying project and/or its media? Choose OK to save, or Cancel to abort the save/copy process.
+;6E1BF9B33FF01DCE=Save/export - project modified
+;F603F596CF3E2D36=Rename Recorded Take
+;9132443EA40315DD=Choose new filename
+;69792EBEB63B91D3=No files selected!
+;BB26FEA9C72D0E73=Can't delete
+;1EF69AD1CE2EBA7C=Delete 1 file?
+;0630D27A518EADFB=Delete %d files?
+;42EBBFA19050A879=Delete confirmation
+;96D23F928AD60BA0=(default scales)
+;0FAF68E2DD654349=(filename only)
+;9F7121AACDD9DF79=Background subprojects may need re-rendering. Re-render now?
+;37F4835A4733D832=Render Subproject Proxy
+;51696CF655EA7CC5=Project is open and has been modified:\r\n%s\r\n\r\nSave changes and render? Choose Yes to save, No to render unsaved changes, or Cancel to skip (re)rendering the subproject proxy.
+;E07F66A84324A50F=All supported media files
+;EF1A80E34CD24366=All Supported Projects
+;CDCF83CB2A8BD8C2=24bit WAV
+;^671BB397A450E74A=No image loaded
+;^4904771239E652D1=All files
+;^D7B51CFC5837E755=Rename
+;^C3EB4B7A6BCD5F3C=New name:

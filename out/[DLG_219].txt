@@ -1,0 +1,21 @@
+[DLG_219] ; IDD_PREFS_KBD
+;1075019A504F73BB=Commit changes to some edit fields after 1 second of no typing
+;4F3654C5B59115AD=Use alternate keyboard section when recording
+;025B90FA447C6C83=Prevent ALT key from focusing main menu
+;CB03E0C93574765E=Allow space key to be used for navigation in various windows
+;E6999CD562DABC49=Assign keyboard shortcuts to actions or change existing shortcuts
+;E6B1DF361BBAF9D5=View keyboard shortcuts as printable/searchable web page
+;ABD51E23C802FC6F=Multitouch
+;3C82B663A0BB09CA=Enable multitouch swipe
+;46EB4D9A870E3786=Suppress inertia
+;58C1978F7BD0EA46=Gearing:
+;B02E94B4388280CB=Enable multitouch zoom
+;41A9B482FF9E040F=Enable multitouch rotate
+;50047E0C3816086B=Ignore scroll after multitouch gesture:
+;DAD8BA85F7F9ED5C=Reverse vertical scroll
+;E809E6F14FF782A9=Ignore new gesture after multitouch gesture:
+;ADAB85F9EE55B656=Reverse horizontal scroll
+;5C5BB11B55E65C1F=Assign multitouch gestures to actions or change existing shortcuts
+;^7E11B9683132FA9E=Keyboard
+;^CA95C3C55E05662B=Reverse
+;^D8B3B3186B8C817F=ms

@@ -1,0 +1,13 @@
+[DLG_466] ; IDD_PREFS_EDIT_MOUSEMAP
+;FCF67B57094B9AE0=Mouse modifiers
+;CB9E54FADD0BFAD4=Context:
+;EFDF2A9533CCDDA9=Import/export
+;D9B12505AD8448FC=List3
+;C64D048E7E806999=When drawn above media items, treat item label area the same as empty track space
+;DAACA7E47C0551D3=Reverse horizontal zoom when hand-scrolling
+;5ACE749F82E122A4=Edits affect all pooled automation items at the same time position
+;1126AC27130151E1=Right-click deletes CC events
+;A41294BBAE6DD182=Draw/edit immediately on mouse click
+;E02DEE53682EC25E=Disable targeting bottom part of media item when take lane height is less than:
+;6859BE11CDDA8A59=Swap marquee and razor edit modifiers
+;^10EC54E7BB0B3282=pixels

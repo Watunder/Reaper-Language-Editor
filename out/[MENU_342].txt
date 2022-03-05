@@ -1,0 +1,4 @@
+[MENU_342] ; IDR_CONTEXTS_42
+;D459051830243DFE=42_GroupCtx
+;EB446AE89713DE5E=Selecting one item selects group
+;^A354AA07A4DF9BBD=Enable grouping

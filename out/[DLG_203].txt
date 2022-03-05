@@ -1,0 +1,25 @@
+[DLG_203] ; IDD_PREFS_AUDIOBUF
+;FD6CB597F81A51BE=Audio buffering settings
+;A209F590DEBF0FAE=Auto-detect the number of needed audio processing threads
+;61BEF8CE252BFBF0=Audio reading/processing threads:
+;164AAD0DE75983A4=(recommended: 1 per CPU core. can also be 0)
+;CE81FD6CDFB4B2A1=Thread priority:
+;FC932B76ACB875B9=Behavior:
+;2C527E4BC4E1E850=Media buffer size:
+;9AA6529CA6A81E91=ms (default is 1200ms), prebuffer:
+;9AEE19DE54CC8120=% (default is 100%)
+;C0B78103DE8BAEC1=Disable media buffering for tracks with open MIDI editors (recommended)
+;80A76343A9E1E678=Disable media buffering for tracks that are selected
+;017C01A23735EE41=Media buffer size when per-take FX UI open:
+;BEB8AEBD84C1A90D=ms (default is 200ms)
+;51AB61DBF5CB4A76=FX processing/multiprocessing settings
+;A8D66160635DD938=Anticipative FX processing - superior multiprocessing and lower interface latencies
+;9C72AF76953C2AA7=[may not be compatible with certain FX (UAD), live monitoring is not multiprocessed]
+;A0C79D72277D6F0F=Render-ahead:
+;3DA7AD6DA60B893B=ms (default: 200)
+;D3F56CEFCFB9B99E=Allow on tracks without FX (may give higher multiprocessor utilization)
+;331BA087EACA0798=Allow on tracks with open MIDI editors (will increase MIDI preview latency)
+;1E34C617E5353F03=Allow live FX multiprocessing on:
+;A6EE14AB8179B8D8=CPUs
+;281759C8AD758D95=Advanced Disk I/O options...
+;3CF333030AFB4087=[enables multiprocessing of live input, but may reduce performance at low latencies] 

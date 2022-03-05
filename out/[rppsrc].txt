@@ -1,0 +1,11 @@
+[rppsrc]
+;5E8009A7E805E784=RPP audio source information
+;29B36D0D960EFF83=Info:
+;8040F745E39504D6=Project not loaded
+;2A0FC9187E64ADC5=Subproject proxy not found
+;8322CEBFCEC46202=Subproject proxy not loaded
+;C467897F045A3CD4=Length: %.2f seconds\r\nChannels: %d\r\nSamplerate: %.1fHz
+;664E561A08E86B6E=\r\n\r\nProject is open in tab %d: %d tracks
+;D9F20616AE1BE66E=\r\n\r\nProject is not open in tabs
+;21961D1B032B9C0F=Subproject tab
+;C8F8B006DBE1D90C=REAPER Project (RPP) as media

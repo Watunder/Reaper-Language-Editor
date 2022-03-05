@@ -1,0 +1,95 @@
+[render_wildcard]
+;1520CEDC974CC2A2=Project Information
+;D2A55E65E6F7670C=Project Order
+;A3B40840D7974DCA=Media Item Information
+;9EF8FDFBFA821071=Position/Length
+;7D0FCDE52688E0C5=Output Format
+;CFF834D38DCD4B8C=Computer Information
+;5DFBB2BCD0E02AD0=input file name
+;A102825E3888AC4F=project name
+;88F48C434F6133C1=project title (from Project Settings/Notes dialog)
+;C4947C2D374CB35A=project author (from Project Settings/Notes dialog)
+;5ACB584BCFCEF5B1=track name
+;A10E65A5570F945B=track name, including slash characters
+;570771071E5A6FAD=1 for the first track, 2 for the second...
+;AFC975840BFE930F=track folder structure
+;67839EFFE4DABC53=track folder structure, separated by X
+;133D302694CE5BB7=parent track name
+;2046C1BC56BA954B=marker name (first marker within the rendered timeline)
+;0314DED4CD3D96D6=value part of marker matching name=value
+;585633A21918F613=value part of marker matching name=value separated by s
+;A44413DB9D6CBA76=region name
+;93A034FBD1A40480=value part of region matching name=value
+;BCE70DCFC3753239=value part of region matching name=value separated by s
+;6B447449FE1BF950=1 for the first region, 2 for the second...
+;ED731C47C09AB454=recording pass ($recpass00, etc to add leading zeros)
+;F5D6502B70384E73=rendered file name
+;7D27420174C43C67=project tempo
+;10C15867C08B20EE=project time signature, formatted as 4-4
+;F016657745229BE3=FX list
+;A7ED57DDF64CE39F=FX list, separated by X
+;5905B506F4A128EC=blank (optionally 1) for the first file rendered, 1 (optionally 2) for the second...
+;C5E297D4F9C6A9A6=N for the first file rendered, N+1 for the second...
+;583D38EE6CBA16E0=the total number of rendered files
+;EAC7D0A41D1A4661=C0 for the first file rendered,C#0 for the second...
+;2BC4663E8DB83036=X (example: B2) for the first file rendered, X+1 (example: C3) for the second...
+;F4E00D6FE0F5368B=C0 for the first file rendered, D0 for the second...
+;D025DDD4F673D9ED=1 for the first item or region of the same name, 2 for the second...
+;E8F607F516866C57=1 for the first item or region on the timeline, 2 for the second...
+;ABA8B5A5A8C0EA12=N for the first item or region on the timeline, N+1 for the second...
+;D4C140F52CCA422B=1 for the first item or region on the timeline on this track, 2 for the second...
+;DCC9B79985725F8A=N for the first item or region on the timeline on this track, N+1 for the second...
+;DFFE32DD273DC93E=media item take name
+;D438218A8258E7E8=1 for the first media item on a track, 2 for the second...
+;52487CF6525FC301=media item notes
+;D05426FE6CE7D5FA=media item take marker (first take marker within the item)
+;0277AA78F6F4F7F4=start time as M-SS.TTT
+;07AD367A3918138B=end time as M-SS.TTT
+;4F310C9C48CF2BE5=length as M-SS.TTT
+;8E8F0F41A080C1B4=start time as measures.beats
+;469508BD79924E63=end time as measures.beats
+;C56AE79AC7BE5979=length as measures.beats
+;D6D7638F0C34A080=start time as HH.MM.SS.FF
+;457609F2FCD0050D=end time as HH.MM.SS.FF
+;E255729AA72D8493=start time as absolute frames
+;4A64CCBE5AEF8F9A=end time as absolute frames
+;6D8ACF35A7F6E4FC=length as absolute frames
+;8E908F574CA849C0=start time as whole seconds
+;64AEC5C4DC1898F5=end time as whole seconds
+;5414CE81C20C1BF3=length as whole seconds
+;B01E91D37141A0EF=render format (example: wav)
+;9940C64D3E60497A=sample rate in Hz
+;F87F9A41A94F25EF=sample rate in kHz
+;59DEAD709E69D3E3=bit depth, if available
+;46A098AC62D9787B=date
+;DC5A280E5814B749=date+time
+;B132F4FFE316070A=year
+;2EF63D61DDFA9A3E=last 2 digits of the year
+;95176F06D780A81C=month number
+;24FD6943E7DE130A=month name
+;1C594622917FF71D=day of the month
+;A64ACEE1DC315855=day of the week
+;052A9C7963C37188=hour of the day in 24-hour format
+;76A47D71E2586F05=hour of the day in 12-hour format
+;50413F727894E3B9=am if before noon, pm if after noon
+;3505EE45217A9FFB=minute of the hour
+;9AB3AA8400578B45=second of the minute
+;98D702913EE77A9F=user name
+;29AE5A86A0624341=computer name
+;EE38F39D428A5FF8=Capitalizing the first character of the wildcard will capitalize the first letter of the substitution.
+;5D40C262AFC1C1F7=Capitalizing the first two characters of the wildcard will capitalize all letters.
+;AE773EB27E50B416=Immediately following a wildcard, character replacement statements may be specified:
+;4B0A10E47AA7DA8F=single character to remove from the substitution. For example: $track< > removes all spaces from the track name.
+;ED9856DE8CB454B3=abcde are all replaced with X. For example: $track< _> replaces all spaces with underscores in the track name. If > is specified as a character to be replaced, it must be listed first.
+;20F431B6EE9F84C8=For wildcards that optionally end in [N], like $filenumber, [01] will be replaced with 01, 02, etc; [001] will be replaced with 001, 002, etc.
+;45D349C586FCAE73=The wildcard option to allow / characters in substitutions will automatically create directories as needed. For example, if the track name is \"drums/cymbals\", the \"drums\" directory will be created. The $folders and $trackslashes wildcards override this option.
+;DB23BA12A2673BD0=The $folders and $trackslashes wildcards will automatically create directories as needed if the track name contains / characters. For example, if the track name is \"drums/cymbals\", the \"drums\" directory will be created.
+;E9315D7213F53B6A=With a project marker named \"first=john;last=doe\" :
+;3262844B235CF565=$marker resolves to \"first=john;last=doe\"
+;9A7982613C13D96F=$marker(first) resolves to \"john;last=doe\"
+;0927BC9D6E7905A3=$marker(last) resolves to nothing
+;2080F5F64A4A368A=$marker(first)[;] resolves to \"john\"
+;EF48806770BF6E03=$marker(last)[;] resolves to \"doe\"
+;C95E7D9935B89171= (directories will be created automatically)
+;^F0CDBE121A8CBFA9=Batch Converter
+;^D3BC181CB0EE6EFD=Date/Time

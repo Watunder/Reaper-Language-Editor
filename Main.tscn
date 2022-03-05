@@ -1,0 +1,229 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Main.gd" type="Script" id=1]
+[ext_resource path="res://fonts/guifont.tres" type="DynamicFont" id=2]
+
+[node name="Main" type="Node"]
+script = ExtResource( 1 )
+
+[node name="GUI" type="Control" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel" type="Panel" parent="GUI"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="GridContainer" type="GridContainer" parent="GUI/Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 5.66669
+margin_top = 5.0
+margin_right = -4.33325
+margin_bottom = -5.0
+columns = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_right = 150.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 150, 25 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="GUI/Panel/GridContainer/Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="GUI/Panel/GridContainer/Panel/HBoxContainer"]
+margin_right = 73.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button2" type="Button" parent="GUI/Panel/GridContainer/Panel/HBoxContainer"]
+margin_left = 77.0
+margin_right = 150.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Panel2" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 154.0
+margin_right = 1116.0
+margin_bottom = 25.0
+
+[node name="CenterContainer" type="CenterContainer" parent="GUI/Panel/GridContainer/Panel2"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="GUI/Panel/GridContainer/Panel2/CenterContainer"]
+margin_left = 412.0
+margin_top = 5.0
+margin_right = 549.0
+margin_bottom = 19.0
+text = "DevTool Local Reaper"
+
+[node name="Panel3" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 1120.0
+margin_right = 1270.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 150, 25 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="GUI/Panel/GridContainer/Panel3"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="GUI/Panel/GridContainer/Panel3/HBoxContainer"]
+margin_right = 73.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button2" type="Button" parent="GUI/Panel/GridContainer/Panel3/HBoxContainer"]
+margin_left = 77.0
+margin_right = 150.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Panel4" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_top = 29.0
+margin_right = 150.0
+margin_bottom = 681.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="GUI/Panel/GridContainer/Panel4"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ItemList" type="ItemList" parent="GUI/Panel/GridContainer/Panel4/HBoxContainer"]
+margin_right = 150.0
+margin_bottom = 652.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+fixed_column_width = 130
+icon_mode = 0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel5" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 154.0
+margin_top = 29.0
+margin_right = 1116.0
+margin_bottom = 681.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="TextEdit" type="TextEdit" parent="GUI/Panel/GridContainer/Panel5"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = -2.07927
+margin_bottom = -2.07928
+custom_fonts/font = ExtResource( 2 )
+custom_colors/symbol_color = Color( 0.392157, 0.54902, 0.901961, 1 )
+custom_colors/number_color = Color( 1, 1, 1, 1 )
+highlight_current_line = true
+syntax_highlighting = true
+show_line_numbers = true
+breakpoint_gutter = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel6" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 1120.0
+margin_top = 29.0
+margin_right = 1270.0
+margin_bottom = 681.0
+rect_pivot_offset = Vector2( -1281.78, 331 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="GUI/Panel/GridContainer/Panel6"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="ItemList" type="ItemList" parent="GUI/Panel/GridContainer/Panel6/HBoxContainer"]
+margin_right = 150.0
+margin_bottom = 652.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+fixed_column_width = 130
+icon_mode = 0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel7" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_top = 685.0
+margin_right = 150.0
+margin_bottom = 710.0
+rect_min_size = Vector2( 150, 25 )
+
+[node name="LineEdit" type="LineEdit" parent="GUI/Panel/GridContainer/Panel7"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+placeholder_text = "filter"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Panel8" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 154.0
+margin_top = 685.0
+margin_right = 1116.0
+margin_bottom = 710.0
+
+[node name="CenterContainer" type="CenterContainer" parent="GUI/Panel/GridContainer/Panel8"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -0.11908
+margin_top = 2.12592
+margin_right = -0.119141
+margin_bottom = 2.12592
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="GUI/Panel/GridContainer/Panel8/CenterContainer"]
+margin_left = 474.0
+margin_top = 5.0
+margin_right = 486.0
+margin_bottom = 19.0
+text = "..."
+
+[node name="Panel9" type="Panel" parent="GUI/Panel/GridContainer"]
+margin_left = 1120.0
+margin_top = 685.0
+margin_right = 1270.0
+margin_bottom = 710.0
+rect_min_size = Vector2( 150, 25 )
+
+[node name="ProgressBar" type="ProgressBar" parent="GUI/Panel/GridContainer/Panel9"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[connection signal="item_selected" from="GUI/Panel/GridContainer/Panel4/HBoxContainer/ItemList" to="." method="_on_ItemList_item_selected"]

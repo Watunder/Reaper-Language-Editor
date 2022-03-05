@@ -1,0 +1,13 @@
+[pandlg]
+;6117CC4FE43AF7F2=+0.0 (default)
+;7006FC40958447F8=Project default (Stereo balance)
+;82F7D1EB412DAF11=Project default (Stereo pan)
+;65A4F91A332E37E3=Project default (Dual pan)
+;A4A2B926D6457694=Project default (REAPER 3.x balance)
+;4511943B57827F5E=Stereo balance / mono pan (default)
+;EA57FBCCFD419668=Stereo pan
+;87CF7CB71772CAC2=Dual pan
+;CC85814B7AF4CCED=REAPER 3.x balance (deprecated)
+;82578278D5231120=Pan Law: 
+;^94DEF1C233373209=Project default
+;^F4944DF4957B0C53= (default)

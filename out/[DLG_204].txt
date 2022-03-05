@@ -1,0 +1,8 @@
+[DLG_204] ; IDD_ABOUT_LICENSE
+;F06854788A1D9107=Licensed to:
+;52F0480E83915AA8=License type:
+;6F5769926BC1C226=Purchase REAPER license key online
+;1B1B5CF87FA36D80=Hide registered name from main titlebar
+;1D3EDF9A66681F71=Hide \"commercial license\" text
+;D98D89186C45DDE1=--
+;^756B500741E261D4=Import license key...

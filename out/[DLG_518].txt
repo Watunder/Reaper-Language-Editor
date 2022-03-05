@@ -1,0 +1,10 @@
+[DLG_518] ; IDD_PREFS_REC_LOOP
+;AF924A0E2CDF74CB=Loop recording settings
+;4F2B31BBF3D2C295=In loop recording, discard incomplete first or last takes if at least one full loop was recorded
+;376DE05863AFD4A7=Threshold for complete take:
+;AEF2A1CEFBD11981=MIDI overdub/replace recording always creates selection-length media item
+;208EE71E50F7ABCB=When recording and looped, add recorded media to project:
+;86CDD3047B701541=On stop (default, recommended)
+;C5B9E0F7E2858D5B=Create new files on loop
+;04B1EA7C5BB5F4F8=At each loop (creates new files, good for recording multiple audio layers on the fly etc)
+;^0832A307B4EB9DCE=%

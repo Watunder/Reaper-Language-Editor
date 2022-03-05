@@ -1,0 +1,19 @@
+[trackmgr_help]
+;ADF3B620E4CA9EA9=Show control panel in arrange view
+;9DFD3535AFC65881=Show control panel in mixer
+;4A03CF60C1779F06=Open FX chain window
+;906E1530FCCF88B4=Open record-input FX chain window
+;19E913527C9D9685=Plug-in delay compensation (bypass FX)
+;F85875E120438A35=Media playback offset
+;6202B8584C4B8F0A=Lock controls
+;03741039AD7FE0D3=Lock height
+;78A82E382FD65D70=Open in MIDI editor
+;115054AE51369A75=Set free item positioning
+;592671F4352CDA57=Freeze media/FX
+;^8BEB3C381FB2F1CE=Color
+;^978AC938BDD65877=Track number
+;^DD0CE22D75D36ED1=Track name
+;^09F51D13C4C28C6A=Track channels
+;^61EB857EEC517894=Record arm
+;^61946358B1034B76=Mute
+;^0420AF237D97ECB8=Solo

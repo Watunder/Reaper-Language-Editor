@@ -1,0 +1,21 @@
+[routdlg]
+;DD096F9E880C0C96=Send to
+;998074CE650BE8E4=Receive from
+;8A1BF18F1F9B40A5=Outputs for Master Track
+;B821BAE9983182E7=Routing for track
+;90A862E9C710864E=Parent send (track %d)
+;4A523771DC809C34=Parent send (track %d %s)
+;76E9739D9859A3D9=Master send
+;C4323AA50B927915=Parent channels:
+;892EE6A6A9935F84=Add new send...
+;32842BAD35BDAEFF=Add sends to all tracks
+;4AD7BB994A552771=Add new hardware output...
+;2500FCB3124BFE9F=<no output>
+;6A5150FAF8777EE3=Send to original channels
+;2E834509D3A06745=Send to channel
+;1D3E6E5BC5E522D9=Add new receive...
+;47C76CA5AEADC0E1=Add receives from all tracks
+;^90803304EBE7C40E=track
+;^480A73B43C308366= (folder)
+;^D8D5C8186BA98B94=ch
+;^5D4FC446DED74611=Output Channel

@@ -1,0 +1,35 @@
+[DLG_213] ; IDD_PREFS_APPEAR
+;D8CD72967FB2F656=Show last undo point in title bar
+;D71FC359E353E6C2=Appearance settings
+;50A242FF186FD837=Tooltips:
+;8FC2C978FC840766=UI elements
+;9CD00C5069B5EF1B=Items/envelopes
+;2AC55E5F9ACB85EE=Envs on hover
+;8E63AFAD5963394C=Delay:
+;5103D7B3AF96E751=Play cursor width:
+;714B409E7AFE9DE1=Highlight edit cursor over last selected track
+;750E37B6DDD93553=Faster text rendering (reduces antialiasing)
+;B697FD49D09D8899=Show last undo point in menu bar
+;4A37C58202F1D1E7=Show guide lines when editing
+;0A4D4FC73A4F510F=Solid edge on time selection highlight
+;C054DDF112689E1C=Solid edge on loop selection
+;D91BC117098D4EC4=Don't scale toolbar buttons below 1:1
+;558142A2C931366C=Don't scale toolbar buttons above 1:1
+;7398F3D28D395CB7=Frameless floating toolbar windows
+;7C19AABD4450CE2B=Draw vertical text bottom-up
+;9E095E7D2135CFA9=Pixels between items on adjacent tracks:
+;604E986E24512244=Maximum number of lanes, when showing overlapping items in lanes:
+;99F74F79442093EF=Antialiased fades and envelopes
+;61E70BF70F6CD68F=Filled automation envelopes
+;56E0E33E38C074B4=Filled envelopes when drawn over media
+;89E372315C3B2BF3=Horizontal grid lines in automation lanes
+;74F22A5C77987AA0=Ruler label spacing:
+;6B38B6D690F4D2B5=Grid line Z order:
+;2D6B74025CB78209=Show dotted grid lines
+;7D6C52FCAEDCCFCF=Marker line Z order:
+;94E19FE26788F507=Show project regions/markers in grid
+;29C14DC1FD71BF41=Show time signature changes in grid
+;CACBFD6F59FFEBD3=Divide arrange view vertically every
+;83653A18A4EE3168=measures (0=zoom dependent)
+;^649ECB151A2B4705=Slider1
+;^E9991E9C69A2E870=Envelopes

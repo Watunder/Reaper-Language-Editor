@@ -1,0 +1,17 @@
+[missfile]
+;D51445559949A7D5=Any matching file (fastest)
+;74DD21A0C8F7B104=Newest modification time
+;75300ED8F9CF7EA5=Oldest modification time
+;B4C719294185B3EB=Biggest file size
+;E705BD92ED886BC5=Smallest file size
+;07805369C6FBD5D5=Longest path name
+;9BEBDBDCBBF5C7A7=Shortest path name
+;1D941EFF01A21FC1=Found
+;16F6A2109895730C=Search for file...
+;33EA714995A3D146=Choose replacement file:
+;A2EDE5C0ECB0FF92=Search aborted.
+;67DF2452B19F5D3E=Select a directory to search:
+;3A5C61456088CD65=[Abort search]
+;56FACD728EE136BC=Error searching specified path
+;BABB523832F9AE4F=Error searching
+;^E217E1085C7ED06D=Searching...

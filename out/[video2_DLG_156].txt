@@ -1,0 +1,8 @@
+[video2_DLG_156] ; IDD_GIF_SINK_CFG
+;D2204C20B4E2FC1C=Encode transparency (bad for normal video, good for some things possibly)
+;C134703B1C276C93=Ignore changes in low bits of color (0-7, 0 = full quality):
+;^464C095FE2D88604=Size:
+;^08325007B4EB10C5=x
+;^445049385C5D024A=Max framerate:
+;^035A657EE2D43886=fps
+;^E8979E97B904E3D2=Preserve aspect ratio (black bars if necessary)

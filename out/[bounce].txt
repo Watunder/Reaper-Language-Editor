@@ -1,0 +1,4 @@
+[bounce]
+;22DC9809A08117E3=Must have a filename to bounce to!
+;BCF24F6C993EDD8E=Audio device not open, can't save live output!
+;D417AA471DE3A0C9=Write to file in path:

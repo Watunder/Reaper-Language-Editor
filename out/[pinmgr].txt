@@ -1,0 +1,3 @@
+[pinmgr]
+;14C0FC555A26C850=JS input
+;A1A1AB5C5B218311=JS output

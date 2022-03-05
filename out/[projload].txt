@@ -1,0 +1,18 @@
+[projload]
+;9FC06B2142583A2B=Warning: %d FLS slots are available, this could be causing plug-ins to be unavailable. Exiting REAPER and reloading may help.\r\n\r\n
+;07E55AB8CC628381=Warning: %d TLS slots are available, this could be causing plug-ins to be unavailable. Exiting REAPER and reloading may help.\r\n\r\n
+;46D0116E5F0AB0C7=WARNING - The following VST2 plug-ins were not available, but matching VST3 versions were found. This is a one-way migration, if you save this project it will require the VST3 versions going forward:
+;2636587AE8D47A71= (%d instances)
+;BDA1A53D15C0E296=The following ReaMote failures occurred:
+;A6D7232ECABCE549=The following effects were in the project file but not loaded because of a user request (recovery mode).
+;1F39F87728AECDF8=The following effects were in the project file and are not available. REAPER will keep their configurations, but things may not sound as desired.
+;66188504FD7D25AD=Project tokens not recognized:
+;EA6CFA339403B74E=Undo History Warnings
+;98233926847DB687=There was an error parsing the specified project:
+;90BBF8F392594609=There were %d items in the project that were not understood. If this project was created in a newer version of REAPER, this version may not preserve all of the settings of the project.
+;C439F2EEF4D0388E=There were %d items in the project that were saved by extensions. If you save this project without those extensions installed, you may lose those extensions' data.
+;9D5A4C07952029A4=There were %d media items in the project that were of a type that require an extension plug-in (the instance that saved the project had the extension plug-in).
+;FB7CC4A30F878FE2=There were %d files in %d places in the project that are in an off-line state, reload the project once the files are available. Note that saving the project is OK, the filenames should be preserved.
+;034FAFC06B88FB35=There was an error opening the project:
+;0D21E1000C23822C=There were errors in the undo history file which may result in some undo states being incorrect.\r\nNote that the current project load is unaffected, only undo to the following points will be affected:\r\n\r\n
+;^BBA33ABA3D67B8AA=REAPER Error

@@ -1,0 +1,4 @@
+[ps_st]
+;0022815136C0D8A5=Default settings
+;6E9E1D4329C51B1A=High Quality
+;^DE99D08FB71B46E9=Fast

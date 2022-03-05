@@ -1,0 +1,6 @@
+[DLG_536] ; IDD_INSERT_MULTI
+;2D881AB025B41602=Insert Media
+;5829C71677489C3A=Separate Tracks
+;51B9D32E1177B86C=Single Track
+;9B6EF7252D32268B=Insert multiple media items on separate tracks, or sequentially on a single track?
+;^F09E4B5C35AA14B9=Cancel

@@ -1,0 +1,16 @@
+[DLG_524] ; IDD_PREFS_APPEAR_FADES
+;543781076A1C8193=Media item fade/crossfade appearance
+;63881AD1B89057EB=Prevent editing fade-in/out when item is less than:
+;3835FCCD4FE00102=pixels wide or
+;AB160C292520C435=pixels tall
+;C069535E9D8BB671=Allow mouse to target:
+;E85367ED12714CDB=fade-in/out curve
+;0024BF3FBE427677=fade start/end line
+;02506CF67F5A95F7=Show fade-in/out handle:
+;55926D1FDB93890E=always
+;360B90677273925B=never
+;5945CCB0612B12BD=when fade is less than:
+;67A4D32224D1FE51=pixels wide
+;3DDA3762CA460144=Show crossfade handle:
+;E349443F1D989275=when media items are not aligned vertically
+;63EEAA4ED16C1D0B=When editing crossfades with the mouse, use crossfade editor theme colors

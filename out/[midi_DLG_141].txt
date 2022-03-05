@@ -1,0 +1,7 @@
+[midi_DLG_141] ; IDD_DISPQUANT
+;C51D8835A6D16CFC=Notation Display Quantization
+;2056413EF6F383A5=Quantize notes/rests:
+;D8C2F344D60F082A=Use project default
+;91C0802F16BBA7E3=Minimum note length: 
+;AC1439E2AB694673=About display quantization...
+;^649ECB151A2B4705=Slider1

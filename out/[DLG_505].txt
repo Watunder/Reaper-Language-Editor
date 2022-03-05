@@ -1,0 +1,11 @@
+[DLG_505] ; IDD_PREFS_PLUGINS_COMPAT
+;323A73E4A444C161=Plug-in compatibility
+;EDA0C6E598F85DA1=Pre-zero plug-in output buffers
+;A8C678D44921F2AE=Reduce denormalization from plug-ins (recommended)
+;8F87D2EAD1659D21=Disable saving full plug-in state (not recommended, set minimal undo for the plug-in instead)
+;A8951FCFD25B68DF=Note: some plug-ins (especially synths and samplers) store a lot of data with the project, which can cause interruptions when REAPER saves undo points for plug-in parameter adjustments.
+;D43728829B5F35B2=Disabling full plug-in state saving can prevent these interruptions, but may also prevent plug-ins from loading exactly as they were saved, when reopening a project.
+;14E244B04A725B43=Enabling minimal undo for a plug-in that stores a lot of data will prevent these interruptions without affecting project save/load, but means that undoing plug-in parameter adjustments may not work as expected.
+;2293DF1EA49D559D=Set minimal undo, bridging/firewalling, and other compatibility settings per-plugin by pressing the + button on the FX UI, or by right-clicking the plug-in name in the FX browser.
+;79E5A635270D54C7=Terminate REAPER immediately if a plug-in corrupts the process heap
+;4A1AC9C73685E230=Note: this security setting will cause REAPER to crash immediately if a buggy or malicious plug-in is detected.

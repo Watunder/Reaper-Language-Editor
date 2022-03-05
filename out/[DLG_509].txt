@@ -1,0 +1,5 @@
+[DLG_509] ; IDD_RENDERWARN
+;ABD2F614EE0DE91B=Always silently increment filenames to avoid overwriting
+;438408651E1E4D5C=Overwrite
+;^043FBD1700F7067B=Render Warning
+;^F09E4B5C35AA14B9=Cancel

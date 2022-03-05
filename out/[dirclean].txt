@@ -1,0 +1,11 @@
+[dirclean]
+;8526440B07707361=Send files to trash (safer)
+;02137CBE81838764=Scanning project directory...
+;0D74709687427C94=%d of %d files are not used in 
+;E1B7D88D39E1EB01=No unused files found
+;2B0D285A38123897=Remove %d selected files?
+;7DD3D3B3AF7CDCD0=Delete Files Confirmation
+;8D1A56E0463971F7=%d files could not be deleted.
+;F2F4267894F0AB1D=Delete Files Error
+;F3B9104AAEBB1249=Project media path not found!
+;^C7A89083E6E728EB=Project Directory Cleanup

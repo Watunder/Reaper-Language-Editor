@@ -1,0 +1,5 @@
+[metadata]
+;430CE5953D21E5CD=Save preset
+;EFF96EF194E5B2F5=Metadata Preset
+;^79FCD625803A6AD8=Rename preset
+;^B814E3BFB72A607B=Delete preset

@@ -1,0 +1,18 @@
+[prefs_reamote]
+;1DEC456895ACE04B=Edit ReaMote Server
+;B934E16F0736D5A8=You must enter a hostname or IP!
+;849DFA3E8F0BA822=Hostname
+;70FACF0CC2413497=64-bit (default) - Maximum quality
+;D36679C70FD56D5D=32-bit - Reduced network bandwidth use
+;7A418F724973D6A4=%d blocks
+;9D6A380446618DA2=Connected
+;A08E8029AA7DC6AC=Disconnected
+;A7CE03C316EFE797=Search failed!
+;2D1FC453DF9F9D2C=Are you sure you want to delete the selected ReaMote servers?
+;^9EC3E20500624AAF=Error
+;^03AAF458EEA78F41=Version
+;^EE1268CA4B845A22=# FX
+;^2A6ED1B48E88BCC9=Status
+;^2A487F4A2E60E324=Synchronous
+;^A4C0C852A5B25572=Confirmation
+;^A659FA8F04A8C6D6=Can't open ReaMote UDP port!

@@ -1,0 +1,16 @@
+[DLG_258] ; IDD_MIDIINQUANT
+;96A38836B4332910=Track Record Settings
+;7EF01C0F00285F1F=Quantize track MIDI recording
+;5887D926BA26ECF5=notes, positioning:
+;55394499F9E9C331=Quantize note-offs
+;798585D3B4E00D0F=Quantize within:
+;F3520F17D18261E3=Set recording audio format:
+;9B7BFF83AB737CD3== 0-10%, 90-100%
+;9B635FCEF6AC3812=Record to audio path:
+;8C195CF31C3C64E8=Apply settings to selected tracks
+;^8C66AD45F2B879B1=Quantize to:
+;^576D3C1F8C34C670=Strength:
+;^649ECB151A2B4705=Slider1
+;^0832A307B4EB9DCE=%
+;^89A111C889C4B3D7=Swing:
+;^1EBC977984499408=Format

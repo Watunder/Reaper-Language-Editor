@@ -1,0 +1,9 @@
+[gridsnap]
+;59FC81FA7C61DF25=Mouse-position dependent
+;4613D6FB04BC9724=Only snap at start/snap offset
+;408BFC486690D718=Snap both start/end
+;2AC1E513B32963B1=Over items
+;C20AD104E43AE860=Through items
+;ED8122B2A4C9CA7B=Under items
+;^2ED22F7EFB7E2C2A=all
+;^49EE42D3465CDA6E=selected

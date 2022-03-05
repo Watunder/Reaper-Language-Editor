@@ -1,0 +1,6 @@
+[projsave]
+;FB788791B6125DA4=Error creating project file! Project not saved!
+;46AE0C6B2EBA8FE0=Error writing to project file. Disk full?
+;7978763C70E0E2FA=Error saving undo history. Disk full?
+;E8D1FE31118A288D=Cannot overwrite file:
+;FCBCBACD0FC29A84=Your changes have been temporarily saved as:

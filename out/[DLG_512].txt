@@ -1,0 +1,15 @@
+[DLG_512] ; IDD_PROJECTSETTINGS_ADV
+;778794538C68BD00=Track mixing bit depth:
+;4D5435C303F9017B=Allow feedback in routing (can result in lower performance, loud noises)
+;42735C19A9C49A00=External timecode synchronization
+;ADA73270166EE9D1=Configure
+;0F1D0988E126505F=Limit project length, stop playback/recording at:
+;C7C6760C9DB0D6CE=Enable 'Preserve pitch when changing rate' for new items
+;3B053A9EB7FB8A17=Bezier envelope segments are affected by surrounding non-bezier points
+;1477ECC2978F2283=ReWire client settings
+;^1A8015E802ECC562=Item mix behavior:
+;^8EA91D57270468E0=Pan law:
+;^D8D27C186BA6D499=dB
+;^4C66CC81D7E0E0C6=Linear scale above -3dB pan law
+;^57CA523AA910C686=Gain compensation (boost pans)
+;^A5AE0B33DF6191F1=Pan mode:

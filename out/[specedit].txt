@@ -1,0 +1,11 @@
+[specedit]
+;A2BE5BDE24680DD8=Delete spectral edit
+;CB0ED826C7F2FA7B=Bypass spectral edit
+;BEBE5C0380183DA4=Solo spectral edit
+;3D35A8D00250DA6C=Copy to channel
+;D3E9DFB04B0A4EBC=All other channels
+;9A9E6426063ED489=Take processor FFT size
+;7457BBBCBBDFFEED=%d points
+;^F3238895531F739E=Channel
+;^18C90F7E5DC51FCA=All
+;^B3D2C76823B56BAB=Channel %d

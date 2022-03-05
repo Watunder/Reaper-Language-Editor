@@ -1,0 +1,23 @@
+[midi_insts]
+;0D21D166ABD93F75=+24 C     Glockenspiel
+;1445AE563B25A58D=+12 C     Piccolo, Xylophone
+;526E9883C5D12FBF=+10 Bb
+;52AE3E8864184BE4=+9 A
+;D96381EF2D8CD280=+8 Ab    Piccolo clarinet
+;082A481E71DFD46C=+7 G     Treble flute
+;CD9C897193694328=+5 F     Trumpet
+;8F128CDAB18C7DD3=+3 Eb    Soprano clarinet, Trumpet
+;9FCA0E888F87708E=+2 D
+;5663173FE686CC32=+0 C     Flute, Oboe
+;7A091567CA8F61DC=-2 Bb    Cornet, Flugelhorn, Trumpet, Soprano sax, Clarinet
+;1B7988769A6455C4=-3 A
+;33EF8F6F55E28671=-4 Ab
+;47C4C6ADFC253E3A=-5 G     Alto flute
+;2458C0DF4F46215F=-7 F     Horn, Mellophone
+;8191223BA282B781=-9 Eb    Alto sax, Alto clarinet, Tenor horn
+;DED60F9953C8CE1B=-10 D
+;409DD937C64D144F=-12 C     Bass
+;AEF4CF5F68560894=-14 Bb    Tenor sax, Bass clarinet
+;AA9321A2AF9C10B4=-21 Eb    Baritone sax, Contra-alto clarinet
+;069E668177867AE1=-24 C
+;4F1520E9C9910E27=-26 Bb    Bass sax, Contrabass clarinet

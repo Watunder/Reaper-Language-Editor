@@ -1,0 +1,13 @@
+[DLG_425] ; IDD_MIDIIN_CONFIG
+;C0253B595D267AC2=Configure MIDI Input
+;271F89F0F16A09EA=Enable input from this device
+;097D2F9B6F6EBFEC=Advanced MIDI event timestamp options
+;441316D58AD8BC8C=Let REAPER timestamp events (default)
+;925A502D9C92733D=High precision system timestamp (QPC)
+;F8A4D705CF6C9C1E=Low precision system timestamp (TGT)
+;D0B425DFCB932550=Timestamp precision should be set to match this MIDI input device driver. If the driver precision is unknown, let REAPER timestamp MIDI events.
+;^84225D657EA873E2=Device name:
+;^4F32BF040299F0AA=Enable input for control messages
+;^D840E3186B2B9581=OK
+;^F09E4B5C35AA14B9=Cancel
+;^ABEC79059CAD0B0E=Alias name:

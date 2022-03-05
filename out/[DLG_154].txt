@@ -1,0 +1,26 @@
+[DLG_154] ; IDD_PREFS_PLUGINS
+;C23F311E1AFC4997=Cascade
+;869C32CECA872965=Modal default
+;46B2F90EFC202F2F=Automatically resize FX windows:
+;D898C4186B75D6AA=up
+;C195B1ACA8F965EB=down
+;5F4770DBE32AC217=Set foreground to floating windows when selected
+;9907FEDD82A2071D=Auto-float newly created FX windows
+;1550387FA6A569B5=Auto-open FX windows after quick-add
+;C79A6C3B62E20D60=Auto-dock new FX chain windows
+;DFFCF4A65D1E6FA1=Auto-open FX add dialog when opening empty track FX chain
+;3AEFCD4E62A4E8FD=FX chain positioning:
+;D93EAEFEE1EEAC36=Floating FX positioning:
+;C7B479203D71CE7C=Only allow one FX chain window open at a time
+;6DCB0D632CA6A596=Open track FX window on track selection change
+;146BEFCAD3C82C9C=Only if any FX window is open
+;4DFA4EECE5BCD99F=Show FX list on right side of FX chain windows
+;8DD751BEEF8C6CD7=Show FX chain buttons above FX list
+;85494A154E9F7B8E=Show comment field above FX UI
+;20D2538F88926BA7=Show current track FX in FX button right-click menu
+;69380E9888485D32=Do not create undo points when closing FX windows
+;0958FACBCAB8ED55=Recently Added list max:
+;8E5AEF0B57EBCA22=Only show FX matching filter string:
+;C7B549E0E6B82FD1=reset to recommended default
+;^04CC1A2793006D9A=Automatic
+;^1EEF91D385882BBE=Plug-ins

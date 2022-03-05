@@ -1,0 +1,2 @@
+[itemprops]
+;76717C885F96A963=Open channel mapper (changes take effect immediately)

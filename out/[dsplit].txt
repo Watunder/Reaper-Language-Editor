@@ -1,0 +1,9 @@
+[dsplit]
+;20F90FF8D46C94CE=Split selected items
+;1A900F68165FDC25=Split selected and grouped items
+;36DB16F9DEA007BA=Add stretch markers to selected items
+;990145DF16A64619=Add stretch markers to selected items and grouped items
+;FCF39C74E18E1ACD=Add transient guide markers to selected items
+;9ABCC35C33206DE6=New Preset
+;^37E1C985732EDDC1=Save preset...
+;^B814E3BFB72A607B=Delete preset

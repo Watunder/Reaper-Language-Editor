@@ -1,0 +1,24 @@
+[undohist]
+;CBCF7F7CDF60CF24=--- Initial state ---
+;186240F98D2C1724=--- Session loaded ---
+;CD53D0F3E4647FEC=Undo disabled in preferences
+;310B8AA25BD2479D=Undo History Memory Usage: 
+;0D7F13166E00574B=Undo: 
+;39034C3D41E988FE=DebugInfo
+;03EB4038A46A1CC8=[LAST SAVE] %s
+;B51AD66B3FC458F3=Dock undo history in Docker
+;6B562789A5A9817F=Close Window
+;7E1F5411EF26D208=Load this undo state
+;1DF6962F67C68175=Load this undo state with next alternate redo history
+;4236F16D2B61B116=Load this undo state with alternate redo history
+;F81179A820E1E6C9=Load this undo state with previous alternate redo history
+;C75973DC6D156F72=Undo state information
+;9090BDDE2D146577=Remove selected states from undo history (warning: cannot undo!)
+;DC7A8341A09929BC=Remove selected states alternate redo histories
+;^0C364228BCD76FE0=(Unknown action)
+;^F1645A05AF505BE7=Unknown
+;^1D883542B837B976=Multiple changes
+;^7DA8EA3426CA11D3=Description
+;^B98A031D9BEEF64E=Time
+;^D9A8B3186C5CECF7=%c
+;^E5566C4604653F75=Undo History

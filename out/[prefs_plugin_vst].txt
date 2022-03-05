@@ -1,0 +1,5 @@
+[prefs_plugin_vst]
+;B150A2F1CC68BBAF=Ignore when plug-in window is not open [default]
+;^553098B8452B6F0C=Ignore when not from UI thread
+;^A20B1F2055BF5412=Ignore all notifications
+;^4523D3871D7D7B77=Process all notifications

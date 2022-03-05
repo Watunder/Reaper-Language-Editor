@@ -1,0 +1,25 @@
+[midilearn]
+;7BF775FBE4FA0CE7=Edit Shortcut
+;DC75EEBA4492BCE4=Global
+;B9868FC2221D3605=Global + text fields
+;220494B772EA2052=<<type key or move controller>>
+;399D4E250881B032=Absolute
+;2C6F314216E8F3A2=Relative 1 (127=-1, 1=+1)
+;5A4DEA4FF8BA4DBC=Relative 2 (63=-1, 65=+1)
+;F4F55ECA5653BFF5=Relative 3 (65=-1, 1=+1)
+;8B68CE232E7B4357=<<type special key now>>
+;D0B15FBBE808081B=You must enter a shortcut!
+;6ED0618C9227BFD4=Video window drag, X
+;6ED0628C9227C187=Video window drag, Y
+;3414A7B5898F460C=Video window mousewheel
+;A192DBDE80EEB4D4=Video window horizontal mousewheel
+;4E3296DDA60B2C46=Reverse direction
+;CC9FB6543C9236B5=Shift
+;E6057A870030CABC=Command
+;EE9CC636568ACD30=Control
+;18C9177E5DC52D62=Alt
+;2F4CAA72FFFB1E72=+ Right Button
+;8872A078F9521F8B=+ Middle Button
+;2FE8D5FE04238B47=Toggle (>0=toggle)
+;^63ACD193C4316F68=Normal
+;^9EC3E20500624AAF=Error

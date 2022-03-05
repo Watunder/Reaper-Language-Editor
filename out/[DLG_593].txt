@@ -1,0 +1,11 @@
+[DLG_593] ; IDD_PREFS_PLUGINS_LV2
+;DDB0725BD83391A1=Re-scan/Info
+;5F7990F286F5220C=Re-scan
+;A084DF71FE7F31E7=LV2 plug-ins settings
+;B326A5C806AB6EF1=LV2 plug-in names
+;F02292DEDC398A37=LV2 plug-in paths (can be multiple paths separated by semicolons):
+;3BFC580E135A7853=Append (Mono) for plug-ins with single input/output
+;11216C58BC67ED34=Append (Xch) for plug-ins with non-stereo I/O
+;0EF9D857BFA7CA77=Append (MIDI) for plug-ins with no audio I/O
+;AEAD3FE261A95C2B=Append (Maintainer name)
+;^3C141ED13464E790=Edit path list...

@@ -1,0 +1,3 @@
+[knob]
+;3F5B4E2B242194A4=Delta solo (difference between dry and wet)
+;6F86B37E8EEF7BA9=wet

@@ -1,0 +1,7 @@
+[DLG_256] ; IDD_MIDIMPORT
+;0C7A2C29FBC9E671=MIDI File Import
+;662DE515661DD146=Expand MIDI tracks to new REAPER tracks
+;14890F07BB615314=Merge MIDI tempo map to project tempo map 
+;DF0113FAA089B3D1=Import MIDI markers/cues as project markers
+;^D840E3186B2B9581=OK
+;^F09E4B5C35AA14B9=Cancel

@@ -1,0 +1,18 @@
+[DLG_126] ; IDD_PROJECTSETTINGS_SETTINGS
+;2874B5A9A972DA56=Project sample rate:
+;1B33637BF4614F23=Hz (if unset, hardware default will be used)
+;8FEAABC006D1F98D=Force project tempo/time signature changes to occur on whole samples
+;658C937BDBE2A0A1=Project BPM:
+;16F11A004E847DE0=Time signature
+;B15FB188B25F34F8=Timebase for items/envelopes/markers:
+;1B67AB5CB8E988ED=Timebase for tempo/time signature envelope:
+;EE8EC012349D1F21=Project start time:
+;BE77A7796C85AB2C=Set 0:00 to edit cursor
+;CDA814D5DDCE08E6=Project start measure:
+;779EA278961D47FD=Base ruler markings off this measure
+;4F3FC38A404ADF1A=Playback resample mode:
+;46BBE03B4E465FE9=Render resample mode:
+;9BB2A6892BFE5A75=Default pitch shift mode:
+;A95E2E1907E61757=Pitch shifter parameter:
+;84956F4315BDA1E1=Stretch marker mode:
+;^08329907B4EB8CD0=/

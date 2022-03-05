@@ -1,0 +1,11 @@
+[MENU_315] ; IDR_CONTEXTS_15
+;4D20578AB111ACF0=15was2SendMixerCtx
+;B75CC57A4B1F89C5=Show send parameters\tClick
+;AB3A6BCE325A5628=Show send parameters
+;A3128BC4BBE6C116=Mute send\tShift+Click
+;E42B7D098D9F7AD0=Mute send
+;071444E5F7680782=Remove send\tAlt+Click
+;74BCDB48801CC2DA=Show track routing window\tCtrl+Click
+;B19A3615EADF772D=Show track routing window
+;F0411A69BCF40C1B=Go to send destination track
+;^476CA46F5CC9791B=Remove send

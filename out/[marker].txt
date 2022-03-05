@@ -1,0 +1,7 @@
+[marker]
+;84B7EB53E01864F4=Add Marker
+;5681A0BC2DF9EB72=Tempo/Time Signature Marker
+;0F39829489A7CAC9=Set rhythm pattern:
+;86170C822DFBE9E0=This time signature marker will force the previous measure to end at %s,\r\nbut the marker itself will be positioned at %s.
+;9800ADB742F5B175=Move time signature change to %s?
+;71DEB1BBF89CA7A9=Time signature marker position

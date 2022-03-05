@@ -1,0 +1,5 @@
+[actions_sub]
+;53A0708F2F0C4F01=track %02d
+;BD12C3E49CCB7E02=last touched track
+;A9D4F8A41900FD2E=master track
+;8A1F0F35A4C8FD3E=selected tracks

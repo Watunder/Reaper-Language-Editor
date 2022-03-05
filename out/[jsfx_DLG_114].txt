@@ -1,0 +1,7 @@
+[jsfx_DLG_114] ; IDD_JSDEBUG
+;41489135006FED08=JS Development Environment
+;0650ABC07DC1D288=Full recompile/reset
+;F7C1F3827A407A86=Refresh now
+;5C6441D5492E93B6=Auto-refresh
+;124D08E0043A0E1A=Open in external editor
+;^D9B12705AD844C62=List1

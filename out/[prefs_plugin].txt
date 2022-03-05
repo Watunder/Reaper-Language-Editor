@@ -1,0 +1,4 @@
+[prefs_plugin]
+;CB26A3CA44D04B68=You must restart REAPER to disable heap corruption protection.
+;031550A99A3DBA44=Note: you have selected to use the synchronous UAD-1 compatible mode!\r\n\r\nIt is highly recommended to disable \"Anticipative FX processing\", reducing native plug-in performance and multiprocessor utilization.\r\nTo re-enable \"Anticipative FX processing\" later, go to Preferences/Audio/Buffering. \r\n\r\nDisable \"Anticipative FX processing now\"?
+;^D790926420BA2EB7=Notice

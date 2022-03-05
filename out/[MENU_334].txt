@@ -1,0 +1,10 @@
+[MENU_334] ; IDR_CONTEXTS_34
+;E2D5F7E4A9D9BD25=34_1regionctx
+;C17D7169D375F184=Edit region...\tShift+Doubleclick
+;0DF698328A46B3B5=Edit region...
+;75615834477BEDC2=Select time\tDoubleclick
+;B9CB30CE74265C80=Remove region\tAlt+Click
+;3E1F22F843D34B01=Remove region
+;63A7298466E2A945=Select region
+;8446FCD57E3108B5=Render region...
+;^E66161E882C570BC=Select time

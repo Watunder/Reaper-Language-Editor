@@ -1,0 +1,8 @@
+[MENU_328] ; IDR_CONTEXTS_28
+;BAA07801AA1C048F=28PerfListCtx
+;F53ED82DF3FD2828=Show FX dialog
+;3D90226E6ACF7B65=Toggle FX bypass
+;B2FBA7309089EE8E=Show track FX when empty
+;199BE93776FF597F=Show master FX when empty
+;4A93561F81016C9B=Show monitoring FX when empty
+;^0A406B52D72D3189=Toggle track mute

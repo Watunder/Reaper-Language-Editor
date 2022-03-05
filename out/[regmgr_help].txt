@@ -1,0 +1,9 @@
+[regmgr_help]
+;7D38EA96DC2C7633=Region/marker number
+;9A19F144C96646C5=Region/marker name
+;EA33E60991BEED3E=Start time
+;9B2A58E6C26B25A5=End time
+;446CC0E7471E1065=Region length
+;116867A68264AF76=Render this region (see Region Render Matrix)
+;3ED1D8FF10CEA01C=Take marker information
+;^8BEB3C381FB2F1CE=Color

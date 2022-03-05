@@ -1,0 +1,23 @@
+[DLG_285] ; IDD_MIDICONSOL
+;90BCDFA2B9943BF5=Export Project MIDI
+;0C96F2CD42B5A825=Consolidate time:
+;071DF81C0DB715BE=Time selection only
+;0DF4139BDED23B51=Consolidate MIDI items:
+;E79C80B55713865C=Selected tracks only
+;CCD390E92EBDFAA4=Selected items only
+;54D1453859CED5AB=Export to MIDI file:
+;E120969317607B84=Merge to single MIDI track (type 0 MIDI file)
+;52BE72F1278C86AF=Multitrack MIDI file (type 1 MIDI file)
+;99FD45A4719DEF91=Embed project tempo/time signature changes
+;1B698E697DAAE8EA=Embed SMPTE offset
+;8FEE91F7E29AF324=Export project markers as MIDI:
+;21CBAAB328011923=cues
+;CAF4F4C320FA8AF8=Only export project markers that begin with '#'
+;^C5531D0DEE1F0D0D=Input
+;^79DCBE1CDE37B4F3=Entire project
+;^18C90F7E5DC51FCA=All
+;^2555373B75AA89B2=Output
+;^F685FB3A91025549=Browse...
+;^B599690138EA264A=markers
+;^D840E3186B2B9581=OK
+;^F09E4B5C35AA14B9=Cancel

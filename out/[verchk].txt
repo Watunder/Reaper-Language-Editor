@@ -1,0 +1,10 @@
+[verchk]
+;3FC664440DDF032C=Checking for new version...
+;CCCA12A8F1D83FC2=New version found!
+;07455C085C551AA3=Error checking for new version!
+;5271C3E418B67BAA=There was an error checking for the latest version\r\nis an internet connection present?!
+;84A33EAC14DA5CCD=REAPER is up to date!
+;BBBCEA2135CF6381=REAPER is up to date - the current version is the latest.
+;47F87BFDD2525598=Timed out looking for new version.
+;^F09E4B5C35AA14B9=Cancel
+;^BAC64C1B2E060EE5=Close

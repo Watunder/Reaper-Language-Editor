@@ -1,0 +1,23 @@
+[DLG_449] ; IDD_PREFS_MEDIA_VIDEO
+;BCDE457135D00394=Video decoder information not available, is reaper_video installed?
+;46810F836EA5D01F=Show available decoder information
+;CED21E2589F4296E=Video output delay:
+;4022F90F6DC5E484=Disable high-resolution peaks for video items
+;CEE3274FAE46E954=Video decoder priority:
+;04F8C491E59F6D16=Reset to default
+;400B3E030D735B46=Append :ext or :ext1,ext2 or :!ext3 to limit decoder to particular extensions
+;F5ADF056B3709BDD=Video window follows edits
+;F4981427F70572B6=When moving audio items, seek video frame to:
+;B5CF8BA44C2A22BC=Auto-rotate videos and images with orientation tags on import
+;93ABB433C5184D67=Still image thumbnail display mode:
+;768439BADEEEE063=Default length (ms):
+;7968AEE3F4FE417B=Media with embedded slice information
+;0E6A4821C2AD49FB=Import files as:
+;5C0EAD3BA3080616=Slice tails:
+;3DAC2560CF5B60EA=Media with tempo information in metadata or file name
+;8278E8B28B810DDD=If tempo is reliable:
+;6D1CB645EBF0E4B0=If tempo is suggested:
+;1AA4198DCD5FD638=After adjusting tempo, set imported media to auto-stretch at tempo changes
+;^BDB27E5D914EF9E2=Video
+;^1A566208F0C7B218=Output:
+;^D8B3B3186B8C817F=ms

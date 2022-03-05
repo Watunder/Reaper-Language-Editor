@@ -1,0 +1,25 @@
+[DLG_257] ; IDD_PREFS_MEDIA_MIDI
+;98C4B9514D6A4C77=MIDI settings
+;F9E67E1DE9668D5C=MIDI octave name display offset:
+;34BF8C108E177DA2=Allow trim of MIDI items when splitting (does not apply to pooled MIDI)
+;705E58732CC7ACAA=Pool MIDI source data when pasting or duplicating media items
+;F3E309FD188EF789=Note: set pooling behavior for mouse edits in Editing Behavior/Mouse modifiers.
+;9D3BF13E53E1F580=Create new MIDI items as:
+;96D30634D93AD1A2=MIDI items (in project, recommended)
+;1EF401D3EF671AD0=.MID files
+;1F798B700B94460D=Prompt to confirm filename on \"insert new MIDI item\"
+;CA37DF134593898D=Import existing MIDI files as:
+;2A68FF63432DDAF6=.MID file reference
+;1C82D20BB28383B4=Ticks per quarter note for new MIDI items:
+;0CE64E707111FFD0=(default: 960)
+;F20D9244EBB49390=CC segment interpolation resolution for new MIDI items:
+;AF1BA6057E9FEB1B=PPQ (default: 32)
+;5C483C5FA59576F0=MIDI CC touch-replace recording timeout:
+;14EF3AA1E739B5F8=(ms)
+;5DC7053F3C314EAE=Import multichannel MIDI files:
+;8199F55C57F15C9E=Handle type 0 MIDI files containing meta-events as if they were multichannel MIDI files
+;B466B9F6A8F80E2B=Always prompt to import tempo from MIDI files with simple tempo maps (holding ctrl toggles)
+;440F1C332D682150=Snap time signature change events to whole bars when importing MIDI files
+;6DFAC1A8823DBDB3=Snap tempo change events to whole beats when importing MIDI files
+;0F3D48F72EB91BCE=Character set for exported .MID text events:
+;^1E894CD06766E128=octaves

@@ -1,0 +1,26 @@
+[DLG_138] ; IDD_PREFS_MEDIA
+;8FFF66C9C9744E1E=Media settings
+;B8A37B079F8D2F12=When importing multiple media items:
+;1BECAFEE943F02F9=Copy imported media to project media directory
+;E64FC9552B0BA98B=Automatically name unnamed tracks on media import
+;0BD68E01BE96B94B=Remove trailing numbers
+;9A9E25AAEAC16851=Set media items offline when application is not active
+;00EDDC3568EF8F86=Allow videos to go offline (slow)
+;706BC8DD84E18043=Prompt to confirm filename on \"open copy in editor\"
+;30D3316093DF2C40=Tail length when using Apply FX to items:
+;B57B982B7939BE82=Take FX tail length:
+;1671927D71A9F819=Duplicate take FX when splitting items (including splits caused by recording new takes)
+;434D0D3D16C885EF=Waveform media peak caching settings
+;E1636FD50BD45974=Generate peak caches:
+;CBA4BF72B4C9D063=on import
+;7C2231FA80FA65A1=on project load
+;C9C28BF8EE939E14=Show status window
+;3DA361A2663B8779=Desired cache resolution:
+;3FFD5C0C5B623D35=samples/sec (default is 300)
+;BAC59F2C9E19E025=Put new peak files in peaks/ subfolder relative to media
+;2755B2A0D5082B14=Store peak caches in alternate path if unable to write to media file directory
+;A08F2A18EFFE446E=Alternate peak cache path can be set in Preferences/General/Path
+;9F75720C21818591=Always generate spectral peak information (default is only when spectral peaks enabled)
+;682D26505F615AFB=Automatically rebuild peaks
+;EEB4F31383E821FB=Automatically rebuild peaks if necessary when enabling spectral peaks
+;^D8B3B3186B8C817F=ms

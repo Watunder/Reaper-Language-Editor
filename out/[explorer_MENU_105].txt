@@ -1,0 +1,11 @@
+[explorer_MENU_105] ; IDR_DEFTOOLBAR
+;AC70BB3427408DC9=Auto-play
+;38E212B2E5D542C7=Start on bar
+;AAF6790D36B0FF1F=Tempo match
+;66BF63962E79DF1B=Tempo match double speed
+;536D074EDEEC428F=Tempo match half speed
+;64B6651DCB1D575C=Preserve pitch when changing rate
+;3084E13EDAE17E23=Dock Media Explorer
+;^0F129C59135A1F8E=Main
+;^4324C9C893B102F6=Insert
+;^A288640A459D03A2=Media information box

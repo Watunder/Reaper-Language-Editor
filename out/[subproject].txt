@@ -1,0 +1,11 @@
+[subproject]
+;8E37237DA775FC83= - subproject
+;11ACF64D3C045BD0=Subproject
+;25D740E7EFE65829=Tracks contain non-trivial routing that will be affected by move to subproject:\r\n
+;D7C85BCC6A47FEEE=\r\n\t%d sends to tracks in parent project
+;13DB22FBB5459E24=\r\n\t%d receives from tracks in parent project
+;EF9F2FF5FDEE972E=\r\n\t%d hardware audio outputs
+;95BC62C61C25CA49=\r\n\t%d hardware MIDI outputs
+;E45B3CD9A4E7BC0F=\r\n\r\nDo you wish to continue?
+;9C0440D03D5D0D27= Routing will be removed!
+;3016F3D69B163286=Move to subproject warning

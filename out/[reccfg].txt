@@ -1,0 +1,10 @@
+[reccfg]
+;9D962F14CEA6DC67=Apply settings to %d selected tracks
+;50D6AF3A9EB27887=Apply settings to %d tracks selected in manager
+;12AA8E21552DA11F=Primary only
+;26698832E7F445BB=Secondary only
+;CE412396B8E38B43=Primary + secondary as invisible backup
+;6CE5618F558E4D8E=Nearest value
+;9BF65F8A507FF267=Previous value
+;D450BF663AF0F1E3=Next value
+;3B7998D665998A53=Track Recording Settings: Track

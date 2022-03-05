@@ -1,0 +1,8 @@
+[video2_DLG_104] ; IDD_ITEMINFO
+;0DF0C2C5F7C7F1D4=Video file item properties
+;0045A1E2F96E5361=Transform:
+;9CF3CFFC23D57FDB=Ignore audio
+;0CAADE035D88AB4F=Hi-res peaks
+;80A1C5D2531446DC=Copy audio settings to all video sources
+;^F09E4B5C35AA14B9=Cancel
+;^D840E3186B2B9581=OK

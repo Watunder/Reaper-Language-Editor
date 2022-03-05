@@ -1,0 +1,5 @@
+[MENU_344] ; IDR_CONTEXTS_44
+;A1ECEA29C444236B=44_FxAddVstFolderCtx
+;88F334DEA91EE003=Include plugins found in subfolders
+;2CE99B208A9CC604=Include Cockos plugins in VST folder view
+;A77977CDCE6B436E=Show full paths to VSTs

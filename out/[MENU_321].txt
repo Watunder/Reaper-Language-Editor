@@ -1,0 +1,17 @@
+[MENU_321] ; IDR_CONTEXTS_21
+;54F057E66DAB6A2E=21DockCtx
+;F44B3B65D54ABF39=Attached docker position: bottom
+;2380E7FD8149F997=Attached docker position: left
+;D8FAB2121646193D=Attached docker position: top
+;5E8D40F513E44208=Attached docker position: right
+;0E9C63761FCBD7E9=Compact docker when small and single tab
+;3BF8D5CBB30734D4=Show tab close buttons
+;AD1CD450EA65F62C=Set opacity
+;C5B5EF7FE1E4BE59=25%
+;ACA4047FD3F409FD=50%
+;9A88C27FC97A0DF6=75%
+;B99E3955E3A3AAAD=100%
+;358730B81FD48466=Opaque when active
+;052CF490C8935FF2=Hide dock
+;08FEB056C6CB9471=Close all windows in dock
+;^A66F5FD1FF70F568=Attach Docker to main window

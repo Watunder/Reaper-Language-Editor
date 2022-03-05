@@ -1,0 +1,2 @@
+[DLG_226] ; IDD_SETSRCOPTS
+;55F8E978D7A92025=Update all similar items in project with new filename

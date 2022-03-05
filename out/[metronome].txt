@@ -1,0 +1,16 @@
+[metronome]
+;2F90D3509B93B586=Primary:%c Secondary:%c Triplet:%c Skip:%c
+;53F7269704C81F19=Pattern should be %d beats. If necessary, the pattern will be padded with %c
+;22CEC5829FA4492D=Pattern should be %d beats
+;90C3CF77963D43DF=Sine - soft start
+;06F40FE0CBACEBB2=Sine - hard start
+;758BE04F40035B56=(old deprecated)
+;7B006B7A29CD157C=Play metronome through Monitor FX
+;E42502E3E92311E6=Hardware outputs (select none to use default metronome output):
+;F14D9A44B2F1F156=Hardware outputs (select none to use all master outs):
+;ACDF321F02BFF00A=Mono: 
+;D296E073FBA420D9=Stereo: 
+;2F26993C883FB22B=Open media file:
+;^2AF10D61DA454203=Triangle
+;^5D4FC446DED74611=Output Channel
+;^2C078B30A2995EDB=ReaRoute Output

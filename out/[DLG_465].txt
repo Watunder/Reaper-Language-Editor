@@ -1,0 +1,11 @@
+[DLG_465] ; IDD_TABTOTRANS
+;797A749705D923F0=Sensitivity:
+;A365272127088DD7=Use zero crossings (not as precise but prevents clicks)
+;590A5D6481E41A6A=Display threshold in media items while this window is open
+;3C62AC8F3EE3535C=Media item selection follows tab-to-transient
+;851859DA354311F2=Move by at least 1 pixel when navigating by transients
+;^383F243464148105=Transient Detection Settings
+;^649ECB151A2B4705=Slider1
+;^0832A307B4EB9DCE=%
+;^927D36CE7B695660=Threshold:
+;^D8D27C186BA6D499=dB

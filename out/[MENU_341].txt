@@ -1,0 +1,10 @@
+[MENU_341] ; IDR_CONTEXTS_41
+;F693834CABA4C9E3=Add items...\tA, Insert
+;6650ACE8FE9BB205=Delete selected items\tDel
+;4C9AFAEBAADAE0BC=Show input media source properties
+;A846878F87ED72CE=Open input path
+;4F0653F34D1AEDF7=Open output path
+;BF1E3C6AE1BA753A=Select all\tCtrl+A
+;8A1D9BB9101ACA6E=Fit columns to screen
+;BA643005EA6CA5ED=41_ConvertCtx
+;8E07889A2F7AAFE4=This menu is not used

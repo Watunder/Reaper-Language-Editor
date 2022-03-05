@@ -1,0 +1,7 @@
+[pitchshift]
+;2C9FDF4101D8E2FF=Simple windowed (fast)
+;09D126B8FC03970F=%dms window, %dms fade
+;63360D1F1C91E9E6=%dms window
+;11A3228492FDF5A2=%d%% fade
+;958A4BB76D4E7937=Dirac LE (slow)
+;^AB2A3D4EF1C9D1A8=Default

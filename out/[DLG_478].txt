@@ -1,0 +1,18 @@
+[DLG_478] ; IDD_PREFS_RENDER
+;4DD2B47DA4D97292=Rendering settings
+;BA67DC3729684BA7=Block size to use when rendering:
+;2B9B793C0245346A=samples (leave blank for auto)
+;EC400AB11F1ABACB=Allow anticipative FX processing when rendering (better multiprocessing)
+;45BB0225F77E6549=Limit apply FX/render stems to realtime (good for some plug-ins)
+;789CC946B6370D63=Process all tracks during stem render (some hardware-based plugins may need this)
+;733EA0FFFFA8C4A0=Default tail length:
+;4706AF598E8387DE=ms, render tails when:
+;AF29E9BD16427376=Rendering stems for full project via action
+;11D0193A7C70E42B=Rendering stems for time selection via action
+;363E7FC94526FBB0=When freezing, render the entire track length if there are track or per-take FX
+;35A79557A5DF99E2=Include tail when freezing entire tracks
+;23094615606E8BF9=Freeze muted items into muted silent items
+;FF077D0854B674D7=These settings also affect the default tail options in the render window (projects can override the render tail options).
+;FF6B074EDAC81212=Mark overs in render peaks display
+;AA2C880908E2978E=Automatically close render window when render has finished
+;^4645A0C0BE8944CC=Calculate statistics when rendering

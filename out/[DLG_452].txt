@@ -1,0 +1,4 @@
+[DLG_452] ; IDD_EMPTYITEMINFO
+;263CA781AB655851=Empty Source
+;FCDCE094EAEECFA9=This empty take was probably created by splitting the end of an unlooped media item.
+;^BAC64C1B2E060EE5=Close

@@ -1,0 +1,6 @@
+[DLG_269] ; IDD_BUTTONFINDER
+;89C0342F7627AB40=Theme element finder
+;6ABB4CD6D4ADA635=Highlight selected colors/images:
+;DBC27AD0934AAF0B=Find color:
+;C412A266B462CD69=Find image:
+;F39EB4BC3304012B=Note: Not all colors and images are visible at all times!

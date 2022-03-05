@@ -1,0 +1,6 @@
+[itemimport]
+;2A4E859EDE54DBFC=Import %d-channel MIDI as:
+;3423153C6B5BCC44=Import %d-channel MIDI and meta-events as:
+;8760B8EAFB5FC6F6=%s import: %s
+;CBE458B8A675A6A8=Import %d-channel %s as %d mono tracks?
+;^629548803B048F00= - 

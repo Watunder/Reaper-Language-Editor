@@ -1,0 +1,6 @@
+[warn]
+;3622F945A786CCFF=Note: to disable this warning or change the warning threshold, go to Preferences/General.
+;5AB5CB0EC24B9CDE=WARNING: REAPER is configured to warn you when memory use is %uMB or greater, and memory use is currently %uMB.
+;CDBFADD3715582AE=Hit OK to continue loading project, or cancel to abort load!
+;D35A57519CE006D7=Memory Usage Warning
+;C1BEEA2CC2E586DB=You may wish to save your project and reduce your memory use (by offlining FX, freezing tracks, etc) before continuing.

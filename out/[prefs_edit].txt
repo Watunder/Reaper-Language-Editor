@@ -1,0 +1,13 @@
+[prefs_edit]
+;68A4FA0E1BCE8F2A=Track at center of view
+;6320C97DB869202C=Top of view
+;7E040028AA0C843B=Last selected track
+;D2F5A848BF54967F=Track under mouse cursor
+;35F00B6FDBA01CF8=Edit cursor or play cursor (default)
+;C94DCA651A8805D8=Center of view
+;AC7DA40A71A28A0C=Mouse cursor
+;385CF76CE687AD9C=Locked items interrupt ripple
+;36D2B335DF906511=Locked items interrupt ripple per-track
+;080E32BDDCA4B887=Locked items are unaffected by ripple
+;895C922ED3E9E77C=Locked items are affected by ripple (lock ignored)
+;^BE8A32189AE58F83=Edit cursor

@@ -1,0 +1,6 @@
+[smmode]
+;5EB63E3D8BC9B5AB=Balanced
+;AAB43C991CA9FBF5=Tonal-optimized
+;A87EE2B0BFB1220F=Transient-optimized
+;98CCC15A6E92F844=No pre-echo reduction
+;^94DEF1C233373209=Project default

@@ -1,0 +1,16 @@
+[DLG_218] ; IDD_LOCKSETTINGS
+;A9B99A6F8A73CD35=Lock Settings
+;ADF734ADBE2B231C=Loop points
+;31ED57742F126923=Items (full)
+;55F189406332E197=Items (prevent left/right movement)
+;1195125C951D8503=Items (prevent up/down movement)
+;766BE9F3488BDF6A=Item edges
+;8CF779BCB57A8CCE=Item fade/volume handles
+;A1E55E108B89AF6A=Item stretch markers
+;D8E0BE34ECCD7051=Take envelopes
+;06EA0ABB8C68DB4B=Track envelopes
+;C38622521AF10C6B=Time signature markers
+;^698028640C29E8A9=Enable locking
+;^97D6D411868C112C=Time selection
+;^3896D8BF3E72ED2C=Regions
+;^D35AD13842A55DEA=Markers

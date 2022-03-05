@@ -1,0 +1,9 @@
+[DLG_487] ; IDD_CONFIG_IMPORT
+;3C03C9D8EE0F6058=Import configuration
+;91D0B2E36FEA0496=Use imported configuration:
+;63404EEF28EA7BF0=Import will take the following actions:
+;5BED1A69B4F5740A=Remove local data that is not in imported file (caution!)
+;^BD7850245F5A79EE=Import
+;^F09E4B5C35AA14B9=Cancel
+;^D9B12605AD844AAF=List2
+;^D9B12705AD844C62=List1

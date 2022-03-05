@@ -1,0 +1,31 @@
+[DLG_136] ; IDD_PREFS_PLAY
+;7FF1AA9FBDB6B5BB=Playback settings
+;0616B7FE6E108EE0=Stop/repeat playback at end of project
+;55272D5AF8EE3E11=Scroll view to edit cursor on stop
+;2B7FC3F24C522975=Max MIDI playback speed when applying negative media playback offset:
+;1339F0A0D94DB142=(0=immediate)
+;7C0BC5B15B033895=Flush FX when looping (good for autotune, bad for instruments, etc)
+;1149F742BD0E8658=Run FX when stopped (good for certain VSTi)
+;926B9B67161D84D0=Flush FX on stop
+;80EBAA875417D411=Run FX for
+;F0D4137C641EE9CC=ms after stopping (for reverb tails, etc)
+;874382685E65113B=Send MIDI note-offs when un-record-arming a track
+;4BF7846D1AA249F3=Reset MIDI CC/Pitch on:
+;501A905002E5463E=playback start
+;FFCA9C88B7989F46=playback stop
+;CFC9442BD7D62C0E=playback loop/skip
+;09573F4841142ECB=CC reset overrides:
+;AC26191C42FBEB16=Scrub/jog settings
+;5705FAACAE6DC64F=Only play selected tracks when scrubbing/jogging
+;59B3B7CB1091EC00=Scrub/jog when moving edit cursor via action or control surface
+;83598BE24A366D5C=(Note: set mouse scrub/jog behavior in Editing Behavior/Mouse Modifiers)
+;C2BD0EBD477726F3=Max jog rate:
+;F7AB56EC6A4F9C68=Limit jog rate when near cursor
+;10B157188C8B1599=Faster responding jog
+;B1D374C00E58CA81=Limit scrub rate to 1.0x
+;87357E06E9DEB8FB=Engage scrub when playing (stopping playback)
+;7F7CD7579ACF1427=Looped-segment mode:
+;E933DFD376FC73FC=ms to
+;C949552870042115=Scrub-mode controller sensitivity:
+;^49EB3CF2EE728EFF=Stop playback at end of loop if repeat is disabled
+;^D8B3B3186B8C817F=ms

@@ -1,0 +1,17 @@
+[lv2]
+;208D7FC72A74EB4B= (Mono)
+;D840C6186B2B643A=On
+;F2EF22D7C8733C71=----  LV2 Presets  ----
+;DC93F0F219EC8413=LV2 Advanced Routing
+;DA90960B601B6CFA=MIDI output port
+;952E4E84C447F0CD=MIDI input port
+;D3047D3ACE816387=Not connected
+;D21D5570902CD1AD=%d plug-ins scanned [%d lv2 bundles] [%d UIs] [%d failed]
+;^D8C1A6186B98A8C4=in
+;^B7290B7EB82C4051=out
+;^A159C77E1AA46F0C=Off
+;^274E7C84B3E58DB8=Reset to factory default
+;^0EC28D42C155A657=----  User Presets (.rpl)  ----
+;^93244D3BB94E6F33=No preset
+;^0A98866C997B323D=MIDI Bus %d
+;^5BF98288EE0B3894=PDC (%d spls)

@@ -1,0 +1,12 @@
+[aliasdlg]
+;C2C9675C6F6C0768=Output channel alias/mapping
+;12622FC57125BBC7=Input channel alias/mapping
+;04BC1D63A93DB113=Aliased Name
+;DE13AB7E3D1029FF=HW#
+;B5043558DA4E6D19=HW Name
+;E5EE58A37A698AA8=Load channel map from:
+;654702982910C3C9=Save channel map as:
+;3B4D783DE04FE3DC=Reset all names/mappings to default?
+;725278CFF3575289=Confirm
+;^73532F71FB46906C=(not connected)
+;^0832A507B4EBA134=#

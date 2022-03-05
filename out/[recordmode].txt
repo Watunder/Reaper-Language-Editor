@@ -1,0 +1,18 @@
+[recordmode]
+;C37B831BB51C6960=Record: output (stereo)
+;4576F3BD9F7FEEEF=Record: disable (input monitoring only)
+;B05CACE96B5554FF=Record: output (stereo, latency compensated)
+;420C2D71E528282B=Record: output (MIDI)
+;F4DF69068476DF7D=Record: output (mono)
+;FF085E5B3E264174=Record: output (mono, latency compensated)
+;3F822DF407A890B8=Record: output (multichannel)
+;3A50A1A5F32BC0F7=Record: output (multichannel, latency compensated)
+;5629DD672F0134A0=Record: MIDI overdub
+;01A132358AFF10C9=Record: MIDI replace
+;68B4D4BD11BD78CF=Record: MIDI touch-replace
+;635FE4131187B26A=Record: MIDI latch-replace
+;D537ECC6ED6DEBAD=Record: input (force mono)
+;E60D9BDDA86C84F0=Record: input (force stereo)
+;B2601112446473A8=Record: input (force multichannel)
+;FCDE6AF06C8AE71B=Record: input (force MIDI)
+;33A8C7181877D6CB=Record: input (audio or MIDI)

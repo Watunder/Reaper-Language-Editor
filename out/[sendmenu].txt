@@ -1,0 +1,16 @@
+[sendmenu]
+;4C5B729196E92FF9=Master Send
+;2FB9CF7149422649=Parent Folder Send
+;D00966C35B600008=Adjust I/O Parameters\t(right click on volume fader)
+;F1506B6EDED9DF4A=Audio Hardware Output
+;FDFE3EC98C0C5FC2=Output Channel %d
+;62F8110EDC386D21=Audio ReaRoute Output
+;EB1082ABBC920993=MIDI Output
+;040D476163E042BE=Send all
+;4185A93519E2299E=Send all as channel %d
+;^4A47B5FB012F8EBE=Sends
+;^1978358DE99DE2C5=Receives
+;^C685A28B8DBF7F8B=Folder
+;^D0C04B9E79D271AE=Track
+;^2C078B30A2995EDB=ReaRoute Output
+;^3390D94D34F06461=None

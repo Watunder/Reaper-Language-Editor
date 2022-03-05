@@ -1,0 +1,8 @@
+[DLG_567] ; IDD_SAVEALLPROJECTS
+;4FA73EB4D62B05FD=[New project - Project tab %d]\r\n
+;D19014057B165DA0=The following projects are unsaved. Save all projects before closing?
+;091DEC2CE071C1C2=Prompt for each project
+;4AB7427DE9910F92=Yes
+;D843A7186B2D6564=No
+;^01BF66E624968F18=REAPER Query
+;^F09E4B5C35AA14B9=Cancel

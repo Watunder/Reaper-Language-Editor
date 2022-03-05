@@ -1,0 +1,9 @@
+[DLG_185] ; IDD_SAVEOPTIONS
+;F82D8812ADB6D26E=Create subdirectory for project
+;909B744AC415071D=Copy all media into project directory, using:
+;C90E73117337026E=Convert media
+;92CE2821A4E6C1EE=Format...
+;17492618E3105F2C=Trim media, tail size:
+;4AD4CAC4686A9DBF=Move all media into project directory
+;BF57174CCB290123=Copy rather than move source media if not in old project media path
+;^D8B3B3186B8C817F=ms

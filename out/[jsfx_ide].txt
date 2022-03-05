@@ -1,0 +1,8 @@
+[jsfx_ide]
+;BB07DD2F46B76299=Refs
+;848866D16FDA3957=The effect %s has been modified externally.\r\nDo you want to reload it?
+;FA5AC83F63EC2A5B=Reload JS Effect?
+;D5B3CEB34955D699=Save unsaved changes to:\r\n\r\n%s\r\n\r\nbefore closing?
+;2681A9306FB38F95=Save JS modifications?
+;^DCEF2B4D03DE723C=Name
+;^772CECA01AD73CB4=Value

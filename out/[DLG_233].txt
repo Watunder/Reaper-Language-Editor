@@ -1,0 +1,3 @@
+[DLG_233] ; IDD_PREFS_REWIREDISABLEDCONFIG
+;46D3254492016FA8=Settings Unavailable
+;619B8D22CE2C3B5A=These settings are not available in ReWire client mode.

@@ -1,0 +1,16 @@
+[DLG_209] ; IDD_PREFS_PLUGINS_DX
+;3843E8618CE5C964=ReWire settings
+;99AA745451FB03DE=ReWire/Direct-X plug-ins settings
+;3D0D0CE24C134644=ReWire mixer support (act as ReWire mixer, show ReWire devices in plug-in browser)
+;2F509ABA2BB63239=Auto-open panels when opening ReWire devices
+;F1DA4A4F0E2A1E52=Run FX on stop when ReWire devices are active
+;CFFC69503B85B08D=Check for ReWire mixer/device on startup (and automatically enter client mode if present)
+;7E36CB7319E2A638=Use alternate configuration file (reaper-rewire.ini) when in client mode
+;F4398683B50A8B88=ReWire client project settings
+;253441B2FCA18BE2=Direct-X (DX)
+;D79B80390AF6D43D=Enable DX plug-ins
+;45CAE2F00AB76386=Scan DX plug-ins on startup (not required)
+;19F83078F1C040EB=Disable DX plug-ins scanning
+;6CE8F9E7F0CB5F76=Scan for new DX plug-ins
+;049365D34656A275=Rescan all DX plug-ins
+;^598D95450BED5823=ReWire

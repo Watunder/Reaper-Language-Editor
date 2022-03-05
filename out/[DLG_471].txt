@@ -1,0 +1,8 @@
+[DLG_471] ; IDD_GET_LICECAP
+;4EB31544A2B544C9=LICEcap not found
+;FCC133FA8BDC1797=Download...
+;6BB02D3BA1E9ED3D=LICEcap is a simple, free animated screen capture utility created by Cockos.
+;38E70F8C19CADB20=LICEcap is already installed on this computer:
+;23E9DE4E2A73B835=LICEcap is not installed on this computer:
+;^F685FB3A91025549=Browse...
+;^F09E4B5C35AA14B9=Cancel
