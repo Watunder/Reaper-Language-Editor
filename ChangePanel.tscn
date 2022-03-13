@@ -1,0 +1,177 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://fonts/symbolfont.tres" type="DynamicFont" id=1]
+[ext_resource path="res://fonts/guifont.tres" type="DynamicFont" id=2]
+
+[node name="ChangePanel" type="Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = 5.0
+margin_bottom = -5.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+margin_right = 1280.0
+margin_bottom = 25.0
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/HBoxContainer"]
+margin_right = 638.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="Button" type="Button" parent="VBoxContainer/HBoxContainer/HBoxContainer"]
+margin_right = 108.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+toggle_mode = true
+pressed = true
+text = "  Edit File"
+
+[node name="Button2" type="Button" parent="VBoxContainer/HBoxContainer/HBoxContainer"]
+margin_left = 112.0
+margin_right = 268.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+toggle_mode = true
+text = "﯎  Preview changes"
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer/HBoxContainer"]
+margin_left = 642.0
+margin_right = 1280.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+alignment = 2
+
+[node name="ItemButtonPanel" type="Panel" parent="VBoxContainer/HBoxContainer/HBoxContainer2"]
+margin_right = 486.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/HBoxContainer2/ItemButtonPanel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = -0.704163
+margin_top = -1.33334
+margin_right = -0.704163
+margin_bottom = -1.33334
+alignment = 2
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Label" type="Label" parent="VBoxContainer/HBoxContainer/HBoxContainer2/ItemButtonPanel/HBoxContainer"]
+margin_left = 316.0
+margin_top = 4.0
+margin_right = 324.0
+margin_bottom = 20.0
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="LineEdit" type="LineEdit" parent="VBoxContainer/HBoxContainer/HBoxContainer2/ItemButtonPanel/HBoxContainer"]
+margin_left = 328.0
+margin_right = 462.0
+margin_bottom = 25.0
+text = "Simplified-Chinese"
+max_length = 57
+expand_to_text_length = true
+placeholder_text = "translated language"
+placeholder_alpha = 0.333
+caret_blink = true
+caret_blink_speed = 0.5
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="Button" parent="VBoxContainer/HBoxContainer/HBoxContainer2/ItemButtonPanel/HBoxContainer"]
+margin_left = 466.0
+margin_right = 486.0
+margin_bottom = 25.0
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="Button2" type="Button" parent="VBoxContainer/HBoxContainer/HBoxContainer2"]
+margin_left = 490.0
+margin_right = 638.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+text = "  Commit changes"
+
+[node name="EditPanel" type="Panel" parent="VBoxContainer"]
+margin_top = 29.0
+margin_right = 1280.0
+margin_bottom = 710.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="VBoxContainer" type="VBoxContainer" parent="VBoxContainer/EditPanel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextEdit" type="TextEdit" parent="VBoxContainer/EditPanel/VBoxContainer"]
+margin_right = 1280.0
+margin_bottom = 338.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_fonts/font = ExtResource( 2 )
+custom_colors/symbol_color = Color( 0.392157, 0.54902, 0.901961, 1 )
+custom_colors/number_color = Color( 1, 1, 1, 1 )
+readonly = true
+highlight_current_line = true
+syntax_highlighting = true
+show_line_numbers = true
+breakpoint_gutter = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="TextEdit2" type="TextEdit" parent="VBoxContainer/EditPanel/VBoxContainer"]
+margin_top = 342.0
+margin_right = 1280.0
+margin_bottom = 681.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+custom_fonts/font = ExtResource( 2 )
+custom_colors/symbol_color = Color( 0.392157, 0.54902, 0.901961, 1 )
+custom_colors/number_color = Color( 1, 1, 1, 1 )
+highlight_current_line = true
+syntax_highlighting = true
+show_line_numbers = true
+breakpoint_gutter = true
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="PreviewPanel" type="Panel" parent="VBoxContainer"]
+visible = false
+margin_top = 371.0
+margin_right = 1270.0
+margin_bottom = 710.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="RichTextLabel" type="RichTextLabel" parent="VBoxContainer/PreviewPanel"]
+visible = false
+margin_top = -339.0
+margin_right = 1270.0
+size_flags_horizontal = 3
+size_flags_vertical = 3

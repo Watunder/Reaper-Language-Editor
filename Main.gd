@@ -2,8 +2,8 @@ extends Node
 
 onready var item_list = $GUI/Panel/GridContainer/Panel4/HBoxContainer/ItemList
 onready var item_list1_container = $GUI/Panel/GridContainer/Panel6/HBoxContainer
-onready var text_edit = $GUI/Panel/GridContainer/Panel5/TextEdit
-onready var progress_bar = $GUI/Panel/GridContainer/Panel9/ProgressBar
+onready var text_edit = $GUI/Panel/GridContainer/Panel5/VBoxContainer/TextEdit
+onready var change_panel = $GUI/Panel/GridContainer/Panel5/VBoxContainer/ChangePanel
 
 var load_template_thread = Thread.new()
 var save_keywords_thread = Thread.new()
@@ -11,8 +11,10 @@ var save_keywords_thread = Thread.new()
 func _ready():
 	text_edit.add_color_region("[", "]", Color.orange)
 	text_edit.add_color_region(";", "", Color.dimgray)
+	
+func _enter_tree():
 	load_template_thread.start(self, "load_template")
-
+	
 func _exit_tree():
 	if load_template_thread.is_active():
 		load_template_thread.wait_to_finish()
@@ -100,12 +102,15 @@ func save_keywords(userdata):
 	var part_name =  item_list.get_item_text(item_list.get_selected_items()[0])
 	
 	for num in text_edit.text.length():
+		pass
 		#
 		if !is_key_word && text_edit.text[num] == "=":
 			var _num = num + 1
 			while true:
 				key_word += text_edit.text[_num]
 				_num += 1
+				if text_edit.text[_num - 1] == "\n":
+					break
 				if text_edit.text[_num] == "\n":
 					break
 			is_key_word = true
@@ -132,3 +137,15 @@ func save_keywords(userdata):
 	item_list.mouse_filter = Control.MOUSE_FILTER_STOP
 	
 	save_keywords_thread.call_deferred("wait_to_finish")
+
+func _on_GUI_resized():
+	$GUI/Panel/GridContainer/Panel4.rect_min_size.x = ($GUI.rect_size / Vector2(1280, 720) * 150).x
+	$GUI/Panel/GridContainer/Panel6.rect_min_size.x = $GUI/Panel/GridContainer/Panel4.rect_min_size.x
+	$GUI/Panel/GridContainer/Panel4/HBoxContainer/ItemList.fixed_column_width = ($GUI.rect_size / Vector2(1280, 720) * 130).x
+	$GUI/Panel/GridContainer/Panel6/HBoxContainer/ItemList.fixed_column_width = $GUI/Panel/GridContainer/Panel4/HBoxContainer/ItemList.fixed_column_width
+
+func _on_Button_button_down():
+	text_edit.visible = false if text_edit.visible == true else true
+
+func _on_Button2_button_down():
+	change_panel.visible = false if change_panel.visible == true else true

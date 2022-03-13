@@ -1,0 +1,112 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://fonts/symbolfont.tres" type="DynamicFont" id=1]
+
+[node name="MDictPanel" type="Panel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="VBoxContainer" type="VBoxContainer" parent="."]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_top = 5.0
+margin_bottom = -5.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer"]
+margin_right = 1280.0
+margin_bottom = 25.0
+
+[node name="Button" type="Button" parent="VBoxContainer/HBoxContainer"]
+margin_right = 37.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="Button2" type="Button" parent="VBoxContainer/HBoxContainer"]
+margin_left = 41.0
+margin_right = 78.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="ItemButtonPanel" type="Panel" parent="VBoxContainer/HBoxContainer"]
+margin_left = 82.0
+margin_right = 282.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 200, 25 )
+
+[node name="HBoxContainer" type="HBoxContainer" parent="VBoxContainer/HBoxContainer/ItemButtonPanel"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+margin_left = 0.593933
+margin_right = 0.593933
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="LineEdit" type="LineEdit" parent="VBoxContainer/HBoxContainer/ItemButtonPanel/HBoxContainer"]
+margin_right = 176.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+caret_blink = true
+caret_blink_speed = 0.5
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
+[node name="Button" type="MenuButton" parent="VBoxContainer/HBoxContainer/ItemButtonPanel/HBoxContainer"]
+margin_left = 180.0
+margin_right = 200.0
+margin_bottom = 25.0
+focus_mode = 2
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="LineEdit" type="LineEdit" parent="VBoxContainer/HBoxContainer"]
+margin_left = 286.0
+margin_right = 1239.0
+margin_bottom = 25.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+caret_blink = true
+caret_blink_speed = 0.5
+
+[node name="Button4" type="Button" parent="VBoxContainer/HBoxContainer"]
+margin_left = 1243.0
+margin_right = 1280.0
+margin_bottom = 25.0
+rect_min_size = Vector2( 37, 25 )
+custom_fonts/font = ExtResource( 1 )
+text = ""
+
+[node name="HBoxContainer2" type="HBoxContainer" parent="VBoxContainer"]
+margin_top = 29.0
+margin_right = 1280.0
+margin_bottom = 710.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+
+[node name="ItemList" type="ItemList" parent="VBoxContainer/HBoxContainer2"]
+margin_right = 150.0
+margin_bottom = 681.0
+rect_min_size = Vector2( 150, 0 )
+same_column_width = true
+icon_mode = 0
+
+[node name="RichTextLabel" type="RichTextLabel" parent="VBoxContainer/HBoxContainer2"]
+margin_left = 154.0
+margin_right = 1280.0
+margin_bottom = 681.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
