@@ -1,13 +1,15 @@
-[gd_scene load_steps=3 format=2]
+[gd_scene load_steps=4 format=2]
 
 [ext_resource path="res://fonts/symbolfont.tres" type="DynamicFont" id=1]
 [ext_resource path="res://fonts/guifont.tres" type="DynamicFont" id=2]
+[ext_resource path="res://ChangePanel.gd" type="Script" id=3]
 
 [node name="ChangePanel" type="Panel"]
 anchor_right = 1.0
 anchor_bottom = 1.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
+script = ExtResource( 3 )
 __meta__ = {
 "_edit_use_anchors_": false
 }
@@ -164,7 +166,7 @@ __meta__ = {
 [node name="PreviewPanel" type="Panel" parent="VBoxContainer"]
 visible = false
 margin_top = 371.0
-margin_right = 1270.0
+margin_right = 1280.0
 margin_bottom = 710.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
@@ -175,3 +177,6 @@ margin_top = -339.0
 margin_right = 1270.0
 size_flags_horizontal = 3
 size_flags_vertical = 3
+
+[connection signal="button_down" from="VBoxContainer/HBoxContainer/HBoxContainer/Button" to="." method="_on_Button_button_down"]
+[connection signal="button_down" from="VBoxContainer/HBoxContainer/HBoxContainer/Button2" to="." method="_on_Button2_button_down"]
